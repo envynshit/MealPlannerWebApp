@@ -17,12 +17,12 @@ def create_users_table(conn):
     cursor.execute(
         """
         CREATE TABLE IF NOT EXISTS users (
-            id INT AUTO_INCREMENT PRIMARY KEY,
-            username VARCHAR(100) NOT NULL UNIQUE,
-            email VARCHAR(255) NOT NULL UNIQUE,
-            password_hash VARCHAR(255) NOT NULL,
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            username TEXT NOT NULL UNIQUE,
+            email TEXT NOT NULL UNIQUE,
+            password_hash TEXT NOT NULL,
             created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-        ) ENGINE=InnoDB;
+        );
         """
     )
     conn.commit()
@@ -46,17 +46,19 @@ if st.button("Register"):
         else:
             try:
                 create_users_table(conn)
-                cursor = conn.cursor(dictionary=True)
+                import sqlite3
+                conn.row_factory = sqlite3.Row
+                cursor = conn.cursor()
 
                 # Check existing username or email
-                cursor.execute("SELECT id FROM users WHERE username = %s OR email = %s", (username, email))
+                cursor.execute("SELECT id FROM users WHERE username = ? OR email = ?", (username, email))
                 existing = cursor.fetchone()
                 if existing:
                     st.error("Username or email already exists. Please choose another.")
                 else:
                     pw_hash = hash_password(password)
                     cursor.execute(
-                        "INSERT INTO users (username, email, password_hash) VALUES (%s, %s, %s)",
+                        "INSERT INTO users (username, email, password_hash) VALUES (?, ?, ?)",
                         (username, email, pw_hash),
                     )
                     conn.commit()

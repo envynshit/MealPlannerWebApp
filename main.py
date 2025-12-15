@@ -23,14 +23,16 @@ if st.button("Log in"):
     else:
         try:
             conn = get_connection()
-            cursor = conn.cursor(dictionary=True)
+            import sqlite3
+            conn.row_factory = sqlite3.Row
+            cursor = conn.cursor()
         except Exception as e:
             st.error(f"Database connection error: {e}")
         else:
             try:
                 pw_hash = hash_password(password)
                 cursor.execute(
-                    "SELECT id, username FROM users WHERE username = %s AND password_hash = %s",
+                    "SELECT id, username FROM users WHERE username = ? AND password_hash = ?",
                     (username, pw_hash),
                 )
                 user = cursor.fetchone()

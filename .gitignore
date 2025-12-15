@@ -71,6 +71,8 @@ env/
 *.db
 *.sqlite
 *.sqlite3
+data/*.db
+data/*.sqlite
 
 # Logs
 *.log
@@ -83,3 +85,4 @@ Thumbs.db
 # Project specific
 __pycache__/
 .pytest_cache/
+
