@@ -1,0 +1,1211 @@
+region,household_size,income_per_person_monthly,income_per_person_daily,security_level,security_level_num
+PHILIPPINES,5.2,7377.884615,245.9294872,🟡 Mildly Insecure,1
+PHILIPPINES,4.8,3667.1875,122.2395833,⚫ Severely Insecure,3
+PHILIPPINES,4.5,4905.185185,163.5061728,🔴 Moderately Insecure,2
+PHILIPPINES,4.3,5904.263566,196.8087855,🔴 Moderately Insecure,2
+PHILIPPINES,4.2,6680.753968,222.6917989,🟡 Mildly Insecure,1
+PHILIPPINES,4.1,7615.650407,253.8550136,🟢 Secure,0
+PHILIPPINES,4,8558.541667,285.2847222,🟢 Secure,0
+PHILIPPINES,3.9,10071.36752,335.7122507,🟢 Secure,0
+PHILIPPINES,3.8,11451.31579,381.7105263,🟢 Secure,0
+PHILIPPINES,3.7,14325.67568,477.5225225,🟢 Secure,0
+NCR I,5.2,6781.25,226.0416667,🟡 Mildly Insecure,1
+NCR I,4.8,3447.916667,114.9305556,⚫ Severely Insecure,3
+NCR I,4.5,4775.37037,159.1790123,🔴 Moderately Insecure,2
+NCR I,4.3,5844.573643,194.8191214,🔴 Moderately Insecure,2
+NCR I,4.2,7005.753968,233.5251323,🟡 Mildly Insecure,1
+NCR I,4.1,7159.349593,238.6449864,🟡 Mildly Insecure,1
+NCR I,4,8470.416667,282.3472222,🟢 Secure,0
+NCR I,3.9,9680.128205,322.6709402,🟢 Secure,0
+NCR I,3.8,10758.99123,358.6330409,🟢 Secure,0
+NCR I,3.7,12455.18018,415.1726727,🟢 Secure,0
+NCR II,5.2,10682.05128,356.0683761,🟢 Secure,0
+NCR II,4.8,4055.555556,135.1851852,⚫ Severely Insecure,3
+NCR II,4.5,5624.62963,187.4876543,🔴 Moderately Insecure,2
+NCR II,4.3,6521.317829,217.377261,🟡 Mildly Insecure,1
+NCR II,4.2,8020.833333,267.3611111,🟢 Secure,0
+NCR II,4.1,8381.300813,279.3766938,🟢 Secure,0
+NCR II,4,10327.91667,344.2638889,🟢 Secure,0
+NCR II,3.9,11738.24786,391.2749288,🟢 Secure,0
+NCR II,3.8,14468.20175,482.2733918,🟢 Secure,0
+NCR II,3.7,20291.21622,676.3738739,🟢 Secure,0
+City of Mandaluyong,5.2,9430.929487,314.3643162,🟢 Secure,0
+City of Mandaluyong,4.8,4017.881944,133.9293981,⚫ Severely Insecure,3
+City of Mandaluyong,4.5,5826.851852,194.2283951,🔴 Moderately Insecure,2
+City of Mandaluyong,4.3,6488.565891,216.2855297,🟡 Mildly Insecure,1
+City of Mandaluyong,4.2,7384.920635,246.1640212,🟡 Mildly Insecure,1
+City of Mandaluyong,4.1,9298.780488,309.9593496,🟢 Secure,0
+City of Mandaluyong,4,10079.79167,335.9930556,🟢 Secure,0
+City of Mandaluyong,3.9,12201.28205,406.7094017,🟢 Secure,0
+City of Mandaluyong,3.8,12200.87719,406.6959064,🟢 Secure,0
+City of Mandaluyong,3.7,16074.32432,535.8108108,🟢 Secure,0
+City of San Juan,5.2,7671.153846,255.7051282,🟢 Secure,0
+City of San Juan,4.8,3967.361111,132.2453704,⚫ Severely Insecure,3
+City of San Juan,4.5,5148.703704,171.6234568,🔴 Moderately Insecure,2
+City of San Juan,4.3,5627.325581,187.5775194,🔴 Moderately Insecure,2
+City of San Juan,4.2,6627.777778,220.9259259,🟡 Mildly Insecure,1
+City of San Juan,4.1,7677.642276,255.9214092,🟢 Secure,0
+City of San Juan,4,8741.25,291.375,🟢 Secure,0
+City of San Juan,3.9,10805.55556,360.1851852,🟢 Secure,0
+City of San Juan,3.8,12292.32456,409.744152,🟢 Secure,0
+City of San Juan,3.7,16138.51351,537.9504505,🟢 Secure,0
+Quezon City,5.2,7616.025641,253.8675214,🟢 Secure,0
+Quezon City,4.8,3697.395833,123.2465278,⚫ Severely Insecure,3
+Quezon City,4.5,4566.851852,152.2283951,🔴 Moderately Insecure,2
+Quezon City,4.3,5714.147287,190.4715762,🔴 Moderately Insecure,2
+Quezon City,4.2,6916.269841,230.542328,🟡 Mildly Insecure,1
+Quezon City,4.1,7861.99187,262.0663957,🟢 Secure,0
+Quezon City,4,8653.333333,288.4444444,🟢 Secure,0
+Quezon City,3.9,10285.89744,342.8632479,🟢 Secure,0
+Quezon City,3.8,12885.52632,429.5175439,🟢 Secure,0
+Quezon City,3.7,15050.67568,501.6891892,🟢 Secure,0
+City of Marikina,5.2,7240.865385,241.3621795,🟡 Mildly Insecure,1
+City of Marikina,4.8,3594.618056,119.8206019,⚫ Severely Insecure,3
+City of Marikina,4.5,4873.518519,162.4506173,🔴 Moderately Insecure,2
+City of Marikina,4.3,6244.379845,208.1459948,🟡 Mildly Insecure,1
+City of Marikina,4.2,6788.293651,226.276455,🟡 Mildly Insecure,1
+City of Marikina,4.1,7961.99187,265.399729,🟢 Secure,0
+City of Marikina,4,8719.583333,290.6527778,🟢 Secure,0
+City of Marikina,3.9,9849.145299,328.3048433,🟢 Secure,0
+City of Marikina,3.8,12125.65789,404.1885965,🟢 Secure,0
+City of Marikina,3.7,13499.54955,449.984985,🟢 Secure,0
+NCR III,5.2,5952.884615,198.4294872,🔴 Moderately Insecure,2
+NCR III,4.8,3156.076389,105.2025463,⚫ Severely Insecure,3
+NCR III,4.5,4307.407407,143.5802469,⚫ Severely Insecure,3
+NCR III,4.3,4810.271318,160.3423773,🔴 Moderately Insecure,2
+NCR III,4.2,6084.52381,202.8174603,🟡 Mildly Insecure,1
+NCR III,4.1,6644.308943,221.4769648,🟡 Mildly Insecure,1
+NCR III,4,7356.25,245.2083333,🟡 Mildly Insecure,1
+NCR III,3.9,7986.752137,266.2250712,🟢 Secure,0
+NCR III,3.8,9748.903509,324.9634503,🟢 Secure,0
+NCR III,3.7,11521.84685,384.0615616,🟢 Secure,0
+City of Caloocan,5.2,5733.974359,191.1324786,🔴 Moderately Insecure,2
+City of Caloocan,4.8,3653.472222,121.7824074,⚫ Severely Insecure,3
+City of Caloocan,4.5,4802.222222,160.0740741,🔴 Moderately Insecure,2
+City of Caloocan,4.3,5249.612403,174.9870801,🔴 Moderately Insecure,2
+City of Caloocan,4.2,5982.738095,199.4246032,🔴 Moderately Insecure,2
+City of Caloocan,4.1,6073.577236,202.4525745,🟡 Mildly Insecure,1
+City of Caloocan,4,6996.875,233.2291667,🟡 Mildly Insecure,1
+City of Caloocan,3.9,7910.25641,263.6752137,🟢 Secure,0
+City of Caloocan,3.8,9671.929825,322.3976608,🟢 Secure,0
+City of Caloocan,3.7,10629.72973,354.3243243,🟢 Secure,0
+City of Malabon,5.2,5685.25641,189.508547,🔴 Moderately Insecure,2
+City of Malabon,4.8,3218.229167,107.2743056,⚫ Severely Insecure,3
+City of Malabon,4.5,3924.259259,130.808642,⚫ Severely Insecure,3
+City of Malabon,4.3,4922.868217,164.0956072,🔴 Moderately Insecure,2
+City of Malabon,4.2,5596.230159,186.5410053,🔴 Moderately Insecure,2
+City of Malabon,4.1,6299.796748,209.9932249,🟡 Mildly Insecure,1
+City of Malabon,4,7095.625,236.5208333,🟡 Mildly Insecure,1
+City of Malabon,3.9,8333.547009,277.7849003,🟢 Secure,0
+City of Malabon,3.8,8520.175439,284.005848,🟢 Secure,0
+City of Malabon,3.7,9497.747748,316.5915916,🟢 Secure,0
+City of Navotas,5.2,5918.75,197.2916667,🔴 Moderately Insecure,2
+City of Navotas,4.8,3690.451389,123.0150463,⚫ Severely Insecure,3
+City of Navotas,4.5,4885.925926,162.8641975,🔴 Moderately Insecure,2
+City of Navotas,4.3,5144.573643,171.4857881,🔴 Moderately Insecure,2
+City of Navotas,4.2,6217.65873,207.255291,🟡 Mildly Insecure,1
+City of Navotas,4.1,6565.853659,218.8617886,🟡 Mildly Insecure,1
+City of Navotas,4,8003.541667,266.7847222,🟢 Secure,0
+City of Navotas,3.9,7925,264.1666667,🟢 Secure,0
+City of Navotas,3.8,9021.710526,300.7236842,🟢 Secure,0
+City of Navotas,3.7,10413.73874,347.1246246,🟢 Secure,0
+NCR IV,5.2,8256.25,275.2083333,🟢 Secure,0
+NCR IV,4.8,3968.402778,132.2800926,⚫ Severely Insecure,3
+NCR IV,4.5,5461.666667,182.0555556,🔴 Moderately Insecure,2
+NCR IV,4.3,6839.728682,227.9909561,🟡 Mildly Insecure,1
+NCR IV,4.2,7578.571429,252.6190476,🟢 Secure,0
+NCR IV,4.1,8831.707317,294.3902439,🟢 Secure,0
+NCR IV,4,9726.041667,324.2013889,🟢 Secure,0
+NCR IV,3.9,12075,402.5,🟢 Secure,0
+NCR IV,3.8,12682.01754,422.7339181,🟢 Secure,0
+NCR IV,3.7,18739.41441,624.6471471,🟢 Secure,0
+City of Las Piñas,5.2,7393.910256,246.4636752,🟡 Mildly Insecure,1
+City of Las Piñas,4.8,3862.152778,128.7384259,⚫ Severely Insecure,3
+City of Las Piñas,4.5,4941.296296,164.7098765,🔴 Moderately Insecure,2
+City of Las Piñas,4.3,5824.806202,194.1602067,🔴 Moderately Insecure,2
+City of Las Piñas,4.2,6273.412698,209.1137566,🟡 Mildly Insecure,1
+City of Las Piñas,4.1,7348.373984,244.9457995,🟡 Mildly Insecure,1
+City of Las Piñas,4,7951.25,265.0416667,🟢 Secure,0
+City of Las Piñas,3.9,9767.094017,325.5698006,🟢 Secure,0
+City of Las Piñas,3.8,10513.81579,350.4605263,🟢 Secure,0
+City of Las Piñas,3.7,14030.18018,467.6726727,🟢 Secure,0
+City of Muntinlupa,5.2,8351.923077,278.3974359,🟢 Secure,0
+City of Muntinlupa,4.8,3975.173611,132.505787,⚫ Severely Insecure,3
+City of Muntinlupa,4.5,5512.407407,183.7469136,🔴 Moderately Insecure,2
+City of Muntinlupa,4.3,6897.868217,229.9289406,🟡 Mildly Insecure,1
+City of Muntinlupa,4.2,7439.285714,247.9761905,🟡 Mildly Insecure,1
+City of Muntinlupa,4.1,9101.829268,303.3943089,🟢 Secure,0
+City of Muntinlupa,4,9325.833333,310.8611111,🟢 Secure,0
+City of Muntinlupa,3.9,11452.99145,381.7663818,🟢 Secure,0
+City of Muntinlupa,3.8,13072.58772,435.752924,🟢 Secure,0
+City of Muntinlupa,3.7,18830.63063,627.6876877,🟢 Secure,0
+City of Parañaque,5.2,6888.621795,229.6207265,🟡 Mildly Insecure,1
+City of Parañaque,4.8,3728.125,124.2708333,⚫ Severely Insecure,3
+City of Parañaque,4.5,4931.851852,164.3950617,🔴 Moderately Insecure,2
+City of Parañaque,4.3,5995.348837,199.8449612,🔴 Moderately Insecure,2
+City of Parañaque,4.2,7366.865079,245.5621693,🟡 Mildly Insecure,1
+City of Parañaque,4.1,8245.934959,274.8644986,🟢 Secure,0
+City of Parañaque,4,8077.708333,269.2569444,🟢 Secure,0
+City of Parañaque,3.9,10255.76923,341.8589744,🟢 Secure,0
+City of Parañaque,3.8,11802.41228,393.4137427,🟢 Secure,0
+City of Parañaque,3.7,13788.96396,459.6321321,🟢 Secure,0
+Pasay City,5.2,10439.10256,347.9700855,🟢 Secure,0
+Pasay City,4.8,4643.229167,154.7743056,🔴 Moderately Insecure,2
+Pasay City,4.5,6708.333333,223.6111111,🟡 Mildly Insecure,1
+Pasay City,4.3,8117.054264,270.5684755,🟢 Secure,0
+Pasay City,4.2,9237.301587,307.9100529,🟢 Secure,0
+Pasay City,4.1,10055.28455,335.1761518,🟢 Secure,0
+Pasay City,4,10622.08333,354.0694444,🟢 Secure,0
+Pasay City,3.9,13610.68376,453.6894587,🟢 Secure,0
+Pasay City,3.8,16178.07018,539.2690058,🟢 Secure,0
+Pasay City,3.7,18636.03604,621.2012012,🟢 Secure,0
+City of Makati,5.2,7016.826923,233.8942308,🟡 Mildly Insecure,1
+City of Makati,4.8,3462.152778,115.4050926,⚫ Severely Insecure,3
+City of Makati,4.5,4619.259259,153.9753086,🔴 Moderately Insecure,2
+City of Makati,4.3,6056.395349,201.879845,🟡 Mildly Insecure,1
+City of Makati,4.2,7607.936508,253.5978836,🟢 Secure,0
+City of Makati,4.1,8406.504065,280.2168022,🟢 Secure,0
+City of Makati,4,8413.75,280.4583333,🟢 Secure,0
+City of Makati,3.9,9950.213675,331.6737892,🟢 Secure,0
+City of Makati,3.8,11962.5,398.75,🟢 Secure,0
+City of Makati,3.7,12943.69369,431.4564565,🟢 Secure,0
+Pateros,5.2,6868.910256,228.9636752,🟡 Mildly Insecure,1
+Pateros,4.8,3741.666667,124.7222222,⚫ Severely Insecure,3
+Pateros,4.5,5189.259259,172.9753086,🔴 Moderately Insecure,2
+Pateros,4.3,6261.434109,208.7144703,🟡 Mildly Insecure,1
+Pateros,4.2,6618.650794,220.6216931,🟡 Mildly Insecure,1
+Pateros,4.1,7239.837398,241.3279133,🟡 Mildly Insecure,1
+Pateros,4,8694.166667,289.8055556,🟢 Secure,0
+Pateros,3.9,10316.45299,343.8817664,🟢 Secure,0
+Pateros,3.8,11499.12281,383.3040936,🟢 Secure,0
+Pateros,3.7,12061.03604,402.0345345,🟢 Secure,0
+CAR - CORDILLERA ADMINISTRATIVE REGION,5.2,5671.794872,189.0598291,🔴 Moderately Insecure,2
+CAR - CORDILLERA ADMINISTRATIVE REGION,4.8,2075.868056,69.19560185,⚫ Severely Insecure,3
+CAR - CORDILLERA ADMINISTRATIVE REGION,4.5,2924.074074,97.4691358,⚫ Severely Insecure,3
+CAR - CORDILLERA ADMINISTRATIVE REGION,4.3,3621.511628,120.7170543,⚫ Severely Insecure,3
+CAR - CORDILLERA ADMINISTRATIVE REGION,4.2,4096.031746,136.5343915,⚫ Severely Insecure,3
+CAR - CORDILLERA ADMINISTRATIVE REGION,4.1,4785.772358,159.5257453,🔴 Moderately Insecure,2
+CAR - CORDILLERA ADMINISTRATIVE REGION,4,5937.291667,197.9097222,🔴 Moderately Insecure,2
+CAR - CORDILLERA ADMINISTRATIVE REGION,3.9,7334.401709,244.480057,🟡 Mildly Insecure,1
+CAR - CORDILLERA ADMINISTRATIVE REGION,3.8,9001.754386,300.0584795,🟢 Secure,0
+CAR - CORDILLERA ADMINISTRATIVE REGION,3.7,12458.10811,415.2702703,🟢 Secure,0
+Abra,5.2,3807.852564,126.9284188,⚫ Severely Insecure,3
+Abra,4.8,1612.847222,53.76157407,⚫ Severely Insecure,3
+Abra,4.5,2304.259259,76.80864198,⚫ Severely Insecure,3
+Abra,4.3,2665.503876,88.8501292,⚫ Severely Insecure,3
+Abra,4.2,3019.642857,100.6547619,⚫ Severely Insecure,3
+Abra,4.1,3878.658537,129.2886179,⚫ Severely Insecure,3
+Abra,4,4110.833333,137.0277778,⚫ Severely Insecure,3
+Abra,3.9,4589.74359,152.991453,🔴 Moderately Insecure,2
+Abra,3.8,6042.54386,201.4181287,🟡 Mildly Insecure,1
+Abra,3.7,7815.540541,260.518018,🟢 Secure,0
+Benguet (Excluding City of Baguio),5.2,5692.467949,189.7489316,🔴 Moderately Insecure,2
+Benguet (Excluding City of Baguio),4.8,2122.743056,70.75810185,⚫ Severely Insecure,3
+Benguet (Excluding City of Baguio),4.5,3166.111111,105.537037,⚫ Severely Insecure,3
+Benguet (Excluding City of Baguio),4.3,3842.44186,128.0813953,⚫ Severely Insecure,3
+Benguet (Excluding City of Baguio),4.2,4417.460317,147.2486772,⚫ Severely Insecure,3
+Benguet (Excluding City of Baguio),4.1,5393.902439,179.796748,🔴 Moderately Insecure,2
+Benguet (Excluding City of Baguio),4,6108.958333,203.6319444,🟡 Mildly Insecure,1
+Benguet (Excluding City of Baguio),3.9,7102.564103,236.7521368,🟡 Mildly Insecure,1
+Benguet (Excluding City of Baguio),3.8,8723.684211,290.7894737,🟢 Secure,0
+Benguet (Excluding City of Baguio),3.7,11571.3964,385.7132132,🟢 Secure,0
+City of Baguio,5.2,8004.487179,266.8162393,🟢 Secure,0
+City of Baguio,4.8,2956.423611,98.5474537,⚫ Severely Insecure,3
+City of Baguio,4.5,4300.925926,143.3641975,⚫ Severely Insecure,3
+City of Baguio,4.3,5341.27907,178.0426357,🔴 Moderately Insecure,2
+City of Baguio,4.2,6965.079365,232.1693122,🟡 Mildly Insecure,1
+City of Baguio,4.1,8340.447154,278.0149051,🟢 Secure,0
+City of Baguio,4,9249.583333,308.3194444,🟢 Secure,0
+City of Baguio,3.9,10191.88034,339.7293447,🟢 Secure,0
+City of Baguio,3.8,14151.31579,471.7105263,🟢 Secure,0
+City of Baguio,3.7,16388.73874,546.2912913,🟢 Secure,0
+Ifugao,5.2,5017.147436,167.2382479,🔴 Moderately Insecure,2
+Ifugao,4.8,2505.729167,83.52430556,⚫ Severely Insecure,3
+Ifugao,4.5,3179.259259,105.9753086,⚫ Severely Insecure,3
+Ifugao,4.3,3927.131783,130.9043928,⚫ Severely Insecure,3
+Ifugao,4.2,3980.15873,132.6719577,⚫ Severely Insecure,3
+Ifugao,4.1,4062.398374,135.4132791,⚫ Severely Insecure,3
+Ifugao,4,5072.916667,169.0972222,🔴 Moderately Insecure,2
+Ifugao,3.9,5905.128205,196.8376068,🔴 Moderately Insecure,2
+Ifugao,3.8,7033.991228,234.4663743,🟡 Mildly Insecure,1
+Ifugao,3.7,10486.93694,349.5645646,🟢 Secure,0
+Kalinga,5.2,5823.557692,194.1185897,🔴 Moderately Insecure,2
+Kalinga,4.8,2392.534722,79.75115741,⚫ Severely Insecure,3
+Kalinga,4.5,3175.185185,105.8395062,⚫ Severely Insecure,3
+Kalinga,4.3,3766.085271,125.5361757,⚫ Severely Insecure,3
+Kalinga,4.2,4376.785714,145.8928571,⚫ Severely Insecure,3
+Kalinga,4.1,4770.528455,159.0176152,🔴 Moderately Insecure,2
+Kalinga,4,5357.708333,178.5902778,🔴 Moderately Insecure,2
+Kalinga,3.9,6733.333333,224.4444444,🟡 Mildly Insecure,1
+Kalinga,3.8,8628.947368,287.6315789,🟢 Secure,0
+Kalinga,3.7,11514.18919,383.8063063,🟢 Secure,0
+Mountain Province,5.2,4079.487179,135.982906,⚫ Severely Insecure,3
+Mountain Province,4.8,2016.666667,67.22222222,⚫ Severely Insecure,3
+Mountain Province,4.5,2449.074074,81.63580247,⚫ Severely Insecure,3
+Mountain Province,4.3,2862.015504,95.4005168,⚫ Severely Insecure,3
+Mountain Province,4.2,3150.595238,105.0198413,⚫ Severely Insecure,3
+Mountain Province,4.1,3508.333333,116.9444444,⚫ Severely Insecure,3
+Mountain Province,4,3817.708333,127.2569444,⚫ Severely Insecure,3
+Mountain Province,3.9,4310.470085,143.6823362,⚫ Severely Insecure,3
+Mountain Province,3.8,6205.921053,206.8640351,🟡 Mildly Insecure,1
+Mountain Province,3.7,8268.693694,275.6231231,🟢 Secure,0
+Apayao,5.2,4010.096154,133.6698718,⚫ Severely Insecure,3
+Apayao,4.8,1574.652778,52.48842593,⚫ Severely Insecure,3
+Apayao,4.5,2297.037037,76.56790123,⚫ Severely Insecure,3
+Apayao,4.3,2717.829457,90.59431525,⚫ Severely Insecure,3
+Apayao,4.2,3130.753968,104.3584656,⚫ Severely Insecure,3
+Apayao,4.1,3476.829268,115.8943089,⚫ Severely Insecure,3
+Apayao,4,3959.791667,131.9930556,⚫ Severely Insecure,3
+Apayao,3.9,4559.82906,151.994302,🔴 Moderately Insecure,2
+Apayao,3.8,5744.078947,191.4692982,🔴 Moderately Insecure,2
+Apayao,3.7,8081.081081,269.3693694,🟢 Secure,0
+Ilocos Norte,5.2,4599.038462,153.3012821,🔴 Moderately Insecure,2
+Ilocos Norte,4.8,2372.916667,79.09722222,⚫ Severely Insecure,3
+Ilocos Norte,4.5,3171.111111,105.7037037,⚫ Severely Insecure,3
+Ilocos Norte,4.3,3601.744186,120.0581395,⚫ Severely Insecure,3
+Ilocos Norte,4.2,4162.896825,138.7632275,⚫ Severely Insecure,3
+Ilocos Norte,4.1,4182.317073,139.4105691,⚫ Severely Insecure,3
+Ilocos Norte,4,5142.291667,171.4097222,🔴 Moderately Insecure,2
+Ilocos Norte,3.9,5705.128205,190.1709402,🔴 Moderately Insecure,2
+Ilocos Norte,3.8,6788.596491,226.2865497,🟡 Mildly Insecure,1
+Ilocos Norte,3.7,9271.846847,309.0615616,🟢 Secure,0
+Ilocos Sur,5.2,5298.557692,176.6185897,🔴 Moderately Insecure,2
+Ilocos Sur,4.8,2765.625,92.1875,⚫ Severely Insecure,3
+Ilocos Sur,4.5,3516.111111,117.2037037,⚫ Severely Insecure,3
+Ilocos Sur,4.3,4235.658915,141.1886305,⚫ Severely Insecure,3
+Ilocos Sur,4.2,4787.698413,159.5899471,🔴 Moderately Insecure,2
+Ilocos Sur,4.1,5215.04065,173.8346883,🔴 Moderately Insecure,2
+Ilocos Sur,4,5506.25,183.5416667,🔴 Moderately Insecure,2
+Ilocos Sur,3.9,6836.324786,227.8774929,🟡 Mildly Insecure,1
+Ilocos Sur,3.8,8154.824561,271.8274854,🟢 Secure,0
+Ilocos Sur,3.7,10111.71171,337.0570571,🟢 Secure,0
+La Union,5.2,4646.153846,154.8717949,🔴 Moderately Insecure,2
+La Union,4.8,2153.298611,71.77662037,⚫ Severely Insecure,3
+La Union,4.5,2881.111111,96.03703704,⚫ Severely Insecure,3
+La Union,4.3,3295.736434,109.8578811,⚫ Severely Insecure,3
+La Union,4.2,3946.428571,131.547619,⚫ Severely Insecure,3
+La Union,4.1,4352.845528,145.0948509,⚫ Severely Insecure,3
+La Union,4,5056.041667,168.5347222,🔴 Moderately Insecure,2
+La Union,3.9,5971.581197,199.0527066,🔴 Moderately Insecure,2
+La Union,3.8,6966.447368,232.2149123,🟡 Mildly Insecure,1
+La Union,3.7,9507.882883,316.9294294,🟢 Secure,0
+Pangasinan,5.2,5363.782051,178.792735,🔴 Moderately Insecure,2
+Pangasinan,4.8,2513.020833,83.76736111,⚫ Severely Insecure,3
+Pangasinan,4.5,3195.37037,106.5123457,⚫ Severely Insecure,3
+Pangasinan,4.3,3973.255814,132.4418605,⚫ Severely Insecure,3
+Pangasinan,4.2,4492.063492,149.7354497,⚫ Severely Insecure,3
+Pangasinan,4.1,5002.03252,166.7344173,🔴 Moderately Insecure,2
+Pangasinan,4,5819.375,193.9791667,🔴 Moderately Insecure,2
+Pangasinan,3.9,6693.162393,223.1054131,🟡 Mildly Insecure,1
+Pangasinan,3.8,7474.561404,249.1520468,🟡 Mildly Insecure,1
+Pangasinan,3.7,11455.85586,381.8618619,🟢 Secure,0
+REGION II - CAGAYAN VALLEY,5.2,4238.461538,141.2820513,⚫ Severely Insecure,3
+REGION II - CAGAYAN VALLEY,4.8,2387.152778,79.57175926,⚫ Severely Insecure,3
+REGION II - CAGAYAN VALLEY,4.5,3127.222222,104.2407407,⚫ Severely Insecure,3
+REGION II - CAGAYAN VALLEY,4.3,3686.627907,122.8875969,⚫ Severely Insecure,3
+REGION II - CAGAYAN VALLEY,4.2,3900.595238,130.0198413,⚫ Severely Insecure,3
+REGION II - CAGAYAN VALLEY,4.1,4044.308943,134.8102981,⚫ Severely Insecure,3
+REGION II - CAGAYAN VALLEY,4,4624.375,154.1458333,🔴 Moderately Insecure,2
+REGION II - CAGAYAN VALLEY,3.9,5472.435897,182.4145299,🔴 Moderately Insecure,2
+REGION II - CAGAYAN VALLEY,3.8,5821.710526,194.0570175,🔴 Moderately Insecure,2
+REGION II - CAGAYAN VALLEY,3.7,8381.981982,279.3993994,🟢 Secure,0
+Cagayan,5.2,4247.275641,141.5758547,⚫ Severely Insecure,3
+Cagayan,4.8,1797.743056,59.92476852,⚫ Severely Insecure,3
+Cagayan,4.5,2505.555556,83.51851852,⚫ Severely Insecure,3
+Cagayan,4.3,2977.325581,99.24418605,⚫ Severely Insecure,3
+Cagayan,4.2,3392.857143,113.0952381,⚫ Severely Insecure,3
+Cagayan,4.1,3972.154472,132.4051491,⚫ Severely Insecure,3
+Cagayan,4,4311.458333,143.7152778,⚫ Severely Insecure,3
+Cagayan,3.9,5256.410256,175.2136752,🔴 Moderately Insecure,2
+Cagayan,3.8,6436.842105,214.5614035,🟡 Mildly Insecure,1
+Cagayan,3.7,8339.63964,277.987988,🟢 Secure,0
+Isabela,5.2,5977.564103,199.2521368,🔴 Moderately Insecure,2
+Isabela,4.8,2874.479167,95.81597222,⚫ Severely Insecure,3
+Isabela,4.5,3916.666667,130.5555556,⚫ Severely Insecure,3
+Isabela,4.3,4242.054264,141.4018088,⚫ Severely Insecure,3
+Isabela,4.2,4829.166667,160.9722222,🔴 Moderately Insecure,2
+Isabela,4.1,5097.357724,169.9119241,🔴 Moderately Insecure,2
+Isabela,4,6135.208333,204.5069444,🟡 Mildly Insecure,1
+Isabela,3.9,7397.863248,246.5954416,🟡 Mildly Insecure,1
+Isabela,3.8,8789.254386,292.9751462,🟢 Secure,0
+Isabela,3.7,12177.47748,405.9159159,🟢 Secure,0
+Nueva Vizcaya,5.2,4503.685897,150.1228632,🔴 Moderately Insecure,2
+Nueva Vizcaya,4.8,1819.791667,60.65972222,⚫ Severely Insecure,3
+Nueva Vizcaya,4.5,2462.777778,82.09259259,⚫ Severely Insecure,3
+Nueva Vizcaya,4.3,3150.387597,105.0129199,⚫ Severely Insecure,3
+Nueva Vizcaya,4.2,3528.373016,117.6124339,⚫ Severely Insecure,3
+Nueva Vizcaya,4.1,4205.284553,140.1761518,⚫ Severely Insecure,3
+Nueva Vizcaya,4,4679.375,155.9791667,🔴 Moderately Insecure,2
+Nueva Vizcaya,3.9,5780.982906,192.6994302,🔴 Moderately Insecure,2
+Nueva Vizcaya,3.8,7133.552632,237.7850877,🟡 Mildly Insecure,1
+Nueva Vizcaya,3.7,9260.810811,308.6936937,🟢 Secure,0
+Quirino,5.2,3832.532051,127.7510684,⚫ Severely Insecure,3
+Quirino,4.8,1718.75,57.29166667,⚫ Severely Insecure,3
+Quirino,4.5,2513.333333,83.77777778,⚫ Severely Insecure,3
+Quirino,4.3,2803.294574,93.44315245,⚫ Severely Insecure,3
+Quirino,4.2,3122.222222,104.0740741,⚫ Severely Insecure,3
+Quirino,4.1,3721.341463,124.0447154,⚫ Severely Insecure,3
+Quirino,4,3991.041667,133.0347222,⚫ Severely Insecure,3
+Quirino,3.9,4524.57265,150.8190883,🔴 Moderately Insecure,2
+Quirino,3.8,5660.745614,188.6915205,🔴 Moderately Insecure,2
+Quirino,3.7,7201.801802,240.0600601,🟡 Mildly Insecure,1
+REGION III - CENTRAL LUZON,5.2,4809.134615,160.3044872,🔴 Moderately Insecure,2
+REGION III - CENTRAL LUZON,4.8,1986.458333,66.21527778,⚫ Severely Insecure,3
+REGION III - CENTRAL LUZON,4.5,2683.148148,89.4382716,⚫ Severely Insecure,3
+REGION III - CENTRAL LUZON,4.3,3168.604651,105.620155,⚫ Severely Insecure,3
+REGION III - CENTRAL LUZON,4.2,3761.507937,125.3835979,⚫ Severely Insecure,3
+REGION III - CENTRAL LUZON,4.1,4682.520325,156.0840108,🔴 Moderately Insecure,2
+REGION III - CENTRAL LUZON,4,4747.708333,158.2569444,🔴 Moderately Insecure,2
+REGION III - CENTRAL LUZON,3.9,5836.965812,194.5655271,🔴 Moderately Insecure,2
+REGION III - CENTRAL LUZON,3.8,7227.192982,240.9064327,🟡 Mildly Insecure,1
+REGION III - CENTRAL LUZON,3.7,9806.306306,326.8768769,🟢 Secure,0
+Aurora,5.2,4520.192308,150.6730769,🔴 Moderately Insecure,2
+Aurora,4.8,2002.083333,66.73611111,⚫ Severely Insecure,3
+Aurora,4.5,2617.962963,87.2654321,⚫ Severely Insecure,3
+Aurora,4.3,3052.51938,101.750646,⚫ Severely Insecure,3
+Aurora,4.2,3417.460317,113.9153439,⚫ Severely Insecure,3
+Aurora,4.1,4077.642276,135.9214092,⚫ Severely Insecure,3
+Aurora,4,4261.875,142.0625,⚫ Severely Insecure,3
+Aurora,3.9,4941.880342,164.7293447,🔴 Moderately Insecure,2
+Aurora,3.8,6018.201754,200.6067251,🟡 Mildly Insecure,1
+Aurora,3.7,7879.72973,262.6576577,🟢 Secure,0
+Bulacan,5.2,5352.083333,178.4027778,🔴 Moderately Insecure,2
+Bulacan,4.8,2538.020833,84.60069444,⚫ Severely Insecure,3
+Bulacan,4.5,3593.148148,119.7716049,⚫ Severely Insecure,3
+Bulacan,4.3,4260.658915,142.0219638,⚫ Severely Insecure,3
+Bulacan,4.2,4878.968254,162.6322751,🔴 Moderately Insecure,2
+Bulacan,4.1,5474.796748,182.4932249,🔴 Moderately Insecure,2
+Bulacan,4,6382.916667,212.7638889,🟡 Mildly Insecure,1
+Bulacan,3.9,7063.461538,235.4487179,🟡 Mildly Insecure,1
+Bulacan,3.8,8297.149123,276.5716374,🟢 Secure,0
+Bulacan,3.7,10314.18919,343.8063063,🟢 Secure,0
+Nueva Ecija,5.2,4557.852564,151.9284188,🔴 Moderately Insecure,2
+Nueva Ecija,4.8,2057.118056,68.57060185,⚫ Severely Insecure,3
+Nueva Ecija,4.5,2590.37037,86.34567901,⚫ Severely Insecure,3
+Nueva Ecija,4.3,3238.178295,107.9392765,⚫ Severely Insecure,3
+Nueva Ecija,4.2,3334.325397,111.1441799,⚫ Severely Insecure,3
+Nueva Ecija,4.1,3705.691057,123.5230352,⚫ Severely Insecure,3
+Nueva Ecija,4,4011.25,133.7083333,⚫ Severely Insecure,3
+Nueva Ecija,3.9,4510.042735,150.3347578,🔴 Moderately Insecure,2
+Nueva Ecija,3.8,6768.859649,225.628655,🟡 Mildly Insecure,1
+Nueva Ecija,3.7,9691.216216,323.0405405,🟢 Secure,0
+Pampanga (Excluding City of Angeles),5.2,6367.948718,212.2649573,🟡 Mildly Insecure,1
+Pampanga (Excluding City of Angeles),4.8,2736.805556,91.22685185,⚫ Severely Insecure,3
+Pampanga (Excluding City of Angeles),4.5,3943.148148,131.4382716,⚫ Severely Insecure,3
+Pampanga (Excluding City of Angeles),4.3,4776.550388,159.2183463,🔴 Moderately Insecure,2
+Pampanga (Excluding City of Angeles),4.2,5525.793651,184.1931217,🔴 Moderately Insecure,2
+Pampanga (Excluding City of Angeles),4.1,6611.382114,220.3794038,🟡 Mildly Insecure,1
+Pampanga (Excluding City of Angeles),4,7178.125,239.2708333,🟡 Mildly Insecure,1
+Pampanga (Excluding City of Angeles),3.9,7814.316239,260.477208,🟢 Secure,0
+Pampanga (Excluding City of Angeles),3.8,9852.192982,328.4064327,🟢 Secure,0
+Pampanga (Excluding City of Angeles),3.7,11404.05405,380.1351351,🟢 Secure,0
+City of Angeles,5.2,5720.192308,190.6730769,🔴 Moderately Insecure,2
+City of Angeles,4.8,2863.020833,95.43402778,⚫ Severely Insecure,3
+City of Angeles,4.5,3702.592593,123.4197531,⚫ Severely Insecure,3
+City of Angeles,4.3,4686.24031,156.2080103,🔴 Moderately Insecure,2
+City of Angeles,4.2,5294.84127,176.494709,🔴 Moderately Insecure,2
+City of Angeles,4.1,6076.422764,202.5474255,🟡 Mildly Insecure,1
+City of Angeles,4,7122.708333,237.4236111,🟡 Mildly Insecure,1
+City of Angeles,3.9,7327.564103,244.2521368,🟡 Mildly Insecure,1
+City of Angeles,3.8,8696.929825,289.8976608,🟢 Secure,0
+City of Angeles,3.7,11767.79279,392.2597598,🟢 Secure,0
+Tarlac,5.2,4948.397436,164.9465812,🔴 Moderately Insecure,2
+Tarlac,4.8,2218.923611,73.96412037,⚫ Severely Insecure,3
+Tarlac,4.5,2977.592593,99.25308642,⚫ Severely Insecure,3
+Tarlac,4.3,3462.403101,115.4134367,⚫ Severely Insecure,3
+Tarlac,4.2,3977.579365,132.5859788,⚫ Severely Insecure,3
+Tarlac,4.1,4694.512195,156.4837398,🔴 Moderately Insecure,2
+Tarlac,4,5090,169.6666667,🔴 Moderately Insecure,2
+Tarlac,3.9,5806.196581,193.539886,🔴 Moderately Insecure,2
+Tarlac,3.8,7108.552632,236.9517544,🟡 Mildly Insecure,1
+Tarlac,3.7,10092.34234,336.4114114,🟢 Secure,0
+Zambales (Excluding City of Olongapo),5.2,5342.948718,178.0982906,🔴 Moderately Insecure,2
+Zambales (Excluding City of Olongapo),4.8,3422.569444,114.0856481,⚫ Severely Insecure,3
+Zambales (Excluding City of Olongapo),4.5,4387.777778,146.2592593,⚫ Severely Insecure,3
+Zambales (Excluding City of Olongapo),4.3,5034.883721,167.8294574,🔴 Moderately Insecure,2
+Zambales (Excluding City of Olongapo),4.2,5684.722222,189.4907407,🔴 Moderately Insecure,2
+Zambales (Excluding City of Olongapo),4.1,5981.707317,199.3902439,🔴 Moderately Insecure,2
+Zambales (Excluding City of Olongapo),4,6665.625,222.1875,🟡 Mildly Insecure,1
+Zambales (Excluding City of Olongapo),3.9,6828.846154,227.6282051,🟡 Mildly Insecure,1
+Zambales (Excluding City of Olongapo),3.8,7719.078947,257.3026316,🟢 Secure,0
+Zambales (Excluding City of Olongapo),3.7,9915.315315,330.5105105,🟢 Secure,0
+City of Olongapo,5.2,6382.371795,212.7457265,🟡 Mildly Insecure,1
+City of Olongapo,4.8,4146.180556,138.2060185,⚫ Severely Insecure,3
+City of Olongapo,4.5,5079.074074,169.3024691,🔴 Moderately Insecure,2
+City of Olongapo,4.3,5742.248062,191.4082687,🔴 Moderately Insecure,2
+City of Olongapo,4.2,6491.666667,216.3888889,🟡 Mildly Insecure,1
+City of Olongapo,4.1,7300.813008,243.3604336,🟡 Mildly Insecure,1
+City of Olongapo,4,7595.208333,253.1736111,🟢 Secure,0
+City of Olongapo,3.9,8796.367521,293.2122507,🟢 Secure,0
+City of Olongapo,3.8,9786.184211,326.2061404,🟢 Secure,0
+City of Olongapo,3.7,11095.27027,369.8423423,🟢 Secure,0
+REGION IVA - CALABARZON,5.2,4488.942308,149.6314103,⚫ Severely Insecure,3
+REGION IVA - CALABARZON,4.8,2243.055556,74.76851852,⚫ Severely Insecure,3
+REGION IVA - CALABARZON,4.5,3037.222222,101.2407407,⚫ Severely Insecure,3
+REGION IVA - CALABARZON,4.3,3831.395349,127.7131783,⚫ Severely Insecure,3
+REGION IVA - CALABARZON,4.2,3927.777778,130.9259259,⚫ Severely Insecure,3
+REGION IVA - CALABARZON,4.1,4609.349593,153.6449864,🔴 Moderately Insecure,2
+REGION IVA - CALABARZON,4,5068.958333,168.9652778,🔴 Moderately Insecure,2
+REGION IVA - CALABARZON,3.9,6025.854701,200.8618234,🟡 Mildly Insecure,1
+REGION IVA - CALABARZON,3.8,7063.157895,235.4385965,🟡 Mildly Insecure,1
+REGION IVA - CALABARZON,3.7,9008.108108,300.2702703,🟢 Secure,0
+Batangas,5.2,4764.74359,158.8247863,🔴 Moderately Insecure,2
+Batangas,4.8,2175.520833,72.51736111,⚫ Severely Insecure,3
+Batangas,4.5,3189.444444,106.3148148,⚫ Severely Insecure,3
+Batangas,4.3,3718.79845,123.9599483,⚫ Severely Insecure,3
+Batangas,4.2,4009.722222,133.6574074,⚫ Severely Insecure,3
+Batangas,4.1,4361.99187,145.399729,⚫ Severely Insecure,3
+Batangas,4,5480.416667,182.6805556,🔴 Moderately Insecure,2
+Batangas,3.9,6600.641026,220.0213675,🟡 Mildly Insecure,1
+Batangas,3.8,7583.991228,252.7997076,🟢 Secure,0
+Batangas,3.7,9465.09009,315.503003,🟢 Secure,0
+Cavite,5.2,6122.75641,204.0918803,🟡 Mildly Insecure,1
+Cavite,4.8,3370.833333,112.3611111,⚫ Severely Insecure,3
+Cavite,4.5,4514.259259,150.4753086,🔴 Moderately Insecure,2
+Cavite,4.3,5277.131783,175.9043928,🔴 Moderately Insecure,2
+Cavite,4.2,5386.309524,179.5436508,🔴 Moderately Insecure,2
+Cavite,4.1,6525.609756,217.5203252,🟡 Mildly Insecure,1
+Cavite,4,7838.125,261.2708333,🟢 Secure,0
+Cavite,3.9,8500.641026,283.3547009,🟢 Secure,0
+Cavite,3.8,9803.508772,326.7836257,🟢 Secure,0
+Cavite,3.7,10986.26126,366.2087087,🟢 Secure,0
+Quezon (Excluding City of Lucena),5.2,6156.570513,205.2190171,🟡 Mildly Insecure,1
+Quezon (Excluding City of Lucena),4.8,2527.777778,84.25925926,⚫ Severely Insecure,3
+Quezon (Excluding City of Lucena),4.5,3663.148148,122.1049383,⚫ Severely Insecure,3
+Quezon (Excluding City of Lucena),4.3,4531.007752,151.0335917,🔴 Moderately Insecure,2
+Quezon (Excluding City of Lucena),4.2,5193.650794,173.1216931,🔴 Moderately Insecure,2
+Quezon (Excluding City of Lucena),4.1,6192.886179,206.4295393,🟡 Mildly Insecure,1
+Quezon (Excluding City of Lucena),4,7146.875,238.2291667,🟡 Mildly Insecure,1
+Quezon (Excluding City of Lucena),3.9,8304.91453,276.8304843,🟢 Secure,0
+Quezon (Excluding City of Lucena),3.8,9839.035088,327.9678363,🟢 Secure,0
+Quezon (Excluding City of Lucena),3.7,12562.38739,418.7462462,🟢 Secure,0
+City of Lucena,5.2,5778.205128,192.6068376,🔴 Moderately Insecure,2
+City of Lucena,4.8,2727.083333,90.90277778,⚫ Severely Insecure,3
+City of Lucena,4.5,3408.518519,113.617284,⚫ Severely Insecure,3
+City of Lucena,4.3,4471.317829,149.0439276,⚫ Severely Insecure,3
+City of Lucena,4.2,4710.912698,157.0304233,🔴 Moderately Insecure,2
+City of Lucena,4.1,5913.617886,197.1205962,🔴 Moderately Insecure,2
+City of Lucena,4,6517.916667,217.2638889,🟡 Mildly Insecure,1
+City of Lucena,3.9,7119.871795,237.3290598,🟡 Mildly Insecure,1
+City of Lucena,3.8,8906.578947,296.8859649,🟢 Secure,0
+City of Lucena,3.7,11761.93694,392.0645646,🟢 Secure,0
+Rizal,5.2,6325,210.8333333,🟡 Mildly Insecure,1
+Rizal,4.8,2808.506944,93.61689815,⚫ Severely Insecure,3
+Rizal,4.5,4383.888889,146.1296296,⚫ Severely Insecure,3
+Rizal,4.3,5178.682171,172.622739,🔴 Moderately Insecure,2
+Rizal,4.2,5567.857143,185.5952381,🔴 Moderately Insecure,2
+Rizal,4.1,6550.813008,218.3604336,🟡 Mildly Insecure,1
+Rizal,4,8124.791667,270.8263889,🟢 Secure,0
+Rizal,3.9,8561.752137,285.3917379,🟢 Secure,0
+Rizal,3.8,10660.74561,355.3581871,🟢 Secure,0
+Rizal,3.7,12523.87387,417.4624625,🟢 Secure,0
+MIMAROPA REGION,5.2,6422.115385,214.0705128,🟡 Mildly Insecure,1
+MIMAROPA REGION,4.8,2628.472222,87.61574074,⚫ Severely Insecure,3
+MIMAROPA REGION,4.5,3948.518519,131.617284,⚫ Severely Insecure,3
+MIMAROPA REGION,4.3,4580.620155,152.6873385,🔴 Moderately Insecure,2
+MIMAROPA REGION,4.2,5763.690476,192.1230159,🔴 Moderately Insecure,2
+MIMAROPA REGION,4.1,6513.00813,217.100271,🟡 Mildly Insecure,1
+MIMAROPA REGION,4,7364.375,245.4791667,🟡 Mildly Insecure,1
+MIMAROPA REGION,3.9,8612.179487,287.0726496,🟢 Secure,0
+MIMAROPA REGION,3.8,10771.49123,359.0497076,🟢 Secure,0
+MIMAROPA REGION,3.7,13240.09009,441.3363363,🟢 Secure,0
+Marinduque,5.2,3738.621795,124.6207265,⚫ Severely Insecure,3
+Marinduque,4.8,1817.1875,60.57291667,⚫ Severely Insecure,3
+Marinduque,4.5,2442.037037,81.40123457,⚫ Severely Insecure,3
+Marinduque,4.3,2960.465116,98.68217054,⚫ Severely Insecure,3
+Marinduque,4.2,3168.253968,105.6084656,⚫ Severely Insecure,3
+Marinduque,4.1,3611.788618,120.3929539,⚫ Severely Insecure,3
+Marinduque,4,3899.375,129.9791667,⚫ Severely Insecure,3
+Marinduque,3.9,4660.042735,155.3347578,🔴 Moderately Insecure,2
+Marinduque,3.8,5628.070175,187.6023392,🔴 Moderately Insecure,2
+Marinduque,3.7,7086.036036,236.2012012,🟡 Mildly Insecure,1
+Occidental Mindoro,5.2,5820.99359,194.0331197,🔴 Moderately Insecure,2
+Occidental Mindoro,4.8,2843.75,94.79166667,⚫ Severely Insecure,3
+Occidental Mindoro,4.5,3578.888889,119.2962963,⚫ Severely Insecure,3
+Occidental Mindoro,4.3,4827.325581,160.9108527,🔴 Moderately Insecure,2
+Occidental Mindoro,4.2,4802.380952,160.0793651,🔴 Moderately Insecure,2
+Occidental Mindoro,4.1,5679.878049,189.3292683,🔴 Moderately Insecure,2
+Occidental Mindoro,4,6168.958333,205.6319444,🟡 Mildly Insecure,1
+Occidental Mindoro,3.9,7174.358974,239.1452991,🟡 Mildly Insecure,1
+Occidental Mindoro,3.8,10432.89474,347.7631579,🟢 Secure,0
+Occidental Mindoro,3.7,12538.28829,417.9429429,🟢 Secure,0
+Oriental Mindoro,5.2,7538.621795,251.2873932,🟢 Secure,0
+Oriental Mindoro,4.8,3363.541667,112.1180556,⚫ Severely Insecure,3
+Oriental Mindoro,4.5,4737.777778,157.9259259,🔴 Moderately Insecure,2
+Oriental Mindoro,4.3,5664.147287,188.8049096,🔴 Moderately Insecure,2
+Oriental Mindoro,4.2,6378.571429,212.6190476,🟡 Mildly Insecure,1
+Oriental Mindoro,4.1,7243.902439,241.4634146,🟡 Mildly Insecure,1
+Oriental Mindoro,4,8579.791667,285.9930556,🟢 Secure,0
+Oriental Mindoro,3.9,9623.717949,320.7905983,🟢 Secure,0
+Oriental Mindoro,3.8,11117.32456,370.5774854,🟢 Secure,0
+Oriental Mindoro,3.7,14587.16216,486.2387387,🟢 Secure,0
+City of Puerto Princesa,5.2,4125.480769,137.5160256,⚫ Severely Insecure,3
+City of Puerto Princesa,4.8,1911.111111,63.7037037,⚫ Severely Insecure,3
+City of Puerto Princesa,4.5,2599.444444,86.64814815,⚫ Severely Insecure,3
+City of Puerto Princesa,4.3,2983.139535,99.4379845,⚫ Severely Insecure,3
+City of Puerto Princesa,4.2,3269.642857,108.9880952,⚫ Severely Insecure,3
+City of Puerto Princesa,4.1,3661.788618,122.0596206,⚫ Severely Insecure,3
+City of Puerto Princesa,4,4090,136.3333333,⚫ Severely Insecure,3
+City of Puerto Princesa,3.9,4826.495726,160.8831909,🔴 Moderately Insecure,2
+City of Puerto Princesa,3.8,5842.54386,194.751462,🔴 Moderately Insecure,2
+City of Puerto Princesa,3.7,7858.333333,261.9444444,🟢 Secure,0
+Romblon,5.2,3975.160256,132.5053419,⚫ Severely Insecure,3
+Romblon,4.8,1950.520833,65.01736111,⚫ Severely Insecure,3
+Romblon,4.5,2541.666667,84.72222222,⚫ Severely Insecure,3
+Romblon,4.3,2978.100775,99.27002584,⚫ Severely Insecure,3
+Romblon,4.2,3380.15873,112.6719577,⚫ Severely Insecure,3
+Romblon,4.1,3437.195122,114.5731707,⚫ Severely Insecure,3
+Romblon,4,3877.708333,129.2569444,⚫ Severely Insecure,3
+Romblon,3.9,4529.91453,150.997151,🔴 Moderately Insecure,2
+Romblon,3.8,6012.5,200.4166667,🟡 Mildly Insecure,1
+Romblon,3.7,7798.648649,259.954955,🟢 Secure,0
+REGION V - BICOL REGION,5.2,3891.185897,129.7061966,⚫ Severely Insecure,3
+REGION V - BICOL REGION,4.8,1443.75,48.125,⚫ Severely Insecure,3
+REGION V - BICOL REGION,4.5,2275.185185,75.83950617,⚫ Severely Insecure,3
+REGION V - BICOL REGION,4.3,2473.255814,82.44186047,⚫ Severely Insecure,3
+REGION V - BICOL REGION,4.2,2915.277778,97.17592593,⚫ Severely Insecure,3
+REGION V - BICOL REGION,4.1,3180.081301,106.00271,⚫ Severely Insecure,3
+REGION V - BICOL REGION,4,3442.083333,114.7361111,⚫ Severely Insecure,3
+REGION V - BICOL REGION,3.9,4241.452991,141.3817664,⚫ Severely Insecure,3
+REGION V - BICOL REGION,3.8,5075.219298,169.1739766,🔴 Moderately Insecure,2
+REGION V - BICOL REGION,3.7,7720.720721,257.3573574,🟢 Secure,0
+Albay,5.2,4756.730769,158.5576923,🔴 Moderately Insecure,2
+Albay,4.8,2211.805556,73.72685185,⚫ Severely Insecure,3
+Albay,4.5,2933.148148,97.77160494,⚫ Severely Insecure,3
+Albay,4.3,3210.077519,107.002584,⚫ Severely Insecure,3
+Albay,4.2,3788.095238,126.2698413,⚫ Severely Insecure,3
+Albay,4.1,4120.934959,137.3644986,⚫ Severely Insecure,3
+Albay,4,4412.916667,147.0972222,⚫ Severely Insecure,3
+Albay,3.9,5462.606838,182.0868946,🔴 Moderately Insecure,2
+Albay,3.8,6494.736842,216.4912281,🟡 Mildly Insecure,1
+Albay,3.7,8941.891892,298.0630631,🟢 Secure,0
+Camarines Norte,5.2,3446.474359,114.8824786,⚫ Severely Insecure,3
+Camarines Norte,4.8,2084.201389,69.47337963,⚫ Severely Insecure,3
+Camarines Norte,4.5,2716.481481,90.54938272,⚫ Severely Insecure,3
+Camarines Norte,4.3,2939.341085,97.97803618,⚫ Severely Insecure,3
+Camarines Norte,4.2,3219.444444,107.3148148,⚫ Severely Insecure,3
+Camarines Norte,4.1,3536.178862,117.8726287,⚫ Severely Insecure,3
+Camarines Norte,4,3932.083333,131.0694444,⚫ Severely Insecure,3
+Camarines Norte,3.9,4395.940171,146.531339,⚫ Severely Insecure,3
+Camarines Norte,3.8,5222.149123,174.0716374,🔴 Moderately Insecure,2
+Camarines Norte,3.7,6021.171171,200.7057057,🟡 Mildly Insecure,1
+Camarines Sur,5.2,5451.282051,181.7094017,🔴 Moderately Insecure,2
+Camarines Sur,4.8,2657.638889,88.58796296,⚫ Severely Insecure,3
+Camarines Sur,4.5,3524.444444,117.4814815,⚫ Severely Insecure,3
+Camarines Sur,4.3,3847.48062,128.249354,⚫ Severely Insecure,3
+Camarines Sur,4.2,4432.539683,147.7513228,⚫ Severely Insecure,3
+Camarines Sur,4.1,5436.99187,181.2330623,🔴 Moderately Insecure,2
+Camarines Sur,4,5983.541667,199.4513889,🔴 Moderately Insecure,2
+Camarines Sur,3.9,7261.324786,242.0441595,🟡 Mildly Insecure,1
+Camarines Sur,3.8,9218.201754,307.2733918,🟢 Secure,0
+Camarines Sur,3.7,10268.91892,342.2972973,🟢 Secure,0
+Catanduanes,5.2,3603.685897,120.1228632,⚫ Severely Insecure,3
+Catanduanes,4.8,1840.798611,61.3599537,⚫ Severely Insecure,3
+Catanduanes,4.5,2219.814815,73.99382716,⚫ Severely Insecure,3
+Catanduanes,4.3,2447.48062,81.58268734,⚫ Severely Insecure,3
+Catanduanes,4.2,2606.944444,86.89814815,⚫ Severely Insecure,3
+Catanduanes,4.1,2818.089431,93.93631436,⚫ Severely Insecure,3
+Catanduanes,4,3097.5,103.25,⚫ Severely Insecure,3
+Catanduanes,3.9,3643.589744,121.4529915,⚫ Severely Insecure,3
+Catanduanes,3.8,3911.842105,130.3947368,⚫ Severely Insecure,3
+Catanduanes,3.7,5792.567568,193.0855856,🔴 Moderately Insecure,2
+Sorsogon,5.2,3764.903846,125.4967949,⚫ Severely Insecure,3
+Sorsogon,4.8,1901.041667,63.36805556,⚫ Severely Insecure,3
+Sorsogon,4.5,2477.592593,82.58641975,⚫ Severely Insecure,3
+Sorsogon,4.3,2757.751938,91.9250646,⚫ Severely Insecure,3
+Sorsogon,4.2,3025.396825,100.8465608,⚫ Severely Insecure,3
+Sorsogon,4.1,3436.178862,114.5392954,⚫ Severely Insecure,3
+Sorsogon,4,3885.833333,129.5277778,⚫ Severely Insecure,3
+Sorsogon,3.9,4356.410256,145.2136752,⚫ Severely Insecure,3
+Sorsogon,3.8,5138.377193,171.2792398,🔴 Moderately Insecure,2
+Sorsogon,3.7,7480.855856,249.3618619,🟡 Mildly Insecure,1
+REGION VI - WESTERN VISAYAS,5.2,4088.461538,136.2820513,⚫ Severely Insecure,3
+REGION VI - WESTERN VISAYAS,4.8,2117.881944,70.59606481,⚫ Severely Insecure,3
+REGION VI - WESTERN VISAYAS,4.5,2544.074074,84.80246914,⚫ Severely Insecure,3
+REGION VI - WESTERN VISAYAS,4.3,2794.96124,93.16537468,⚫ Severely Insecure,3
+REGION VI - WESTERN VISAYAS,4.2,3417.261905,113.9087302,⚫ Severely Insecure,3
+REGION VI - WESTERN VISAYAS,4.1,3870.731707,129.0243902,⚫ Severely Insecure,3
+REGION VI - WESTERN VISAYAS,4,4109.583333,136.9861111,⚫ Severely Insecure,3
+REGION VI - WESTERN VISAYAS,3.9,4513.888889,150.462963,🔴 Moderately Insecure,2
+REGION VI - WESTERN VISAYAS,3.8,5838.815789,194.627193,🔴 Moderately Insecure,2
+REGION VI - WESTERN VISAYAS,3.7,8968.468468,298.9489489,🟢 Secure,0
+Aklan,5.2,3384.134615,112.8044872,⚫ Severely Insecure,3
+Aklan,4.8,1875,62.5,⚫ Severely Insecure,3
+Aklan,4.5,2371.666667,79.05555556,⚫ Severely Insecure,3
+Aklan,4.3,2775.387597,92.5129199,⚫ Severely Insecure,3
+Aklan,4.2,2882.539683,96.08465608,⚫ Severely Insecure,3
+Aklan,4.1,3187.195122,106.2398374,⚫ Severely Insecure,3
+Aklan,4,3484.583333,116.1527778,⚫ Severely Insecure,3
+Aklan,3.9,4015.811966,133.8603989,⚫ Severely Insecure,3
+Aklan,3.8,4762.5,158.75,🔴 Moderately Insecure,2
+Aklan,3.7,6776.126126,225.8708709,🟡 Mildly Insecure,1
+Antique,5.2,4001.602564,133.3867521,⚫ Severely Insecure,3
+Antique,4.8,1919.270833,63.97569444,⚫ Severely Insecure,3
+Antique,4.5,2631.481481,87.71604938,⚫ Severely Insecure,3
+Antique,4.3,2815.310078,93.84366925,⚫ Severely Insecure,3
+Antique,4.2,3237.103175,107.9034392,⚫ Severely Insecure,3
+Antique,4.1,3524.186992,117.4728997,⚫ Severely Insecure,3
+Antique,4,4119.791667,137.3263889,⚫ Severely Insecure,3
+Antique,3.9,4806.623932,160.2207977,🔴 Moderately Insecure,2
+Antique,3.8,5479.824561,182.6608187,🔴 Moderately Insecure,2
+Antique,3.7,7630.630631,254.3543544,🟢 Secure,0
+Capiz,5.2,4022.916667,134.0972222,⚫ Severely Insecure,3
+Capiz,4.8,2099.305556,69.97685185,⚫ Severely Insecure,3
+Capiz,4.5,2594.259259,86.47530864,⚫ Severely Insecure,3
+Capiz,4.3,3204.263566,106.8087855,⚫ Severely Insecure,3
+Capiz,4.2,3301.587302,110.0529101,⚫ Severely Insecure,3
+Capiz,4.1,3859.349593,128.6449864,⚫ Severely Insecure,3
+Capiz,4,4445.208333,148.1736111,⚫ Severely Insecure,3
+Capiz,3.9,4489.102564,149.6367521,⚫ Severely Insecure,3
+Capiz,3.8,5727.850877,190.9283626,🔴 Moderately Insecure,2
+Capiz,3.7,8280.18018,276.006006,🟢 Secure,0
+Iloilo (Excluding City of Iloilo),5.2,3016.50641,100.5502137,⚫ Severely Insecure,3
+Iloilo (Excluding City of Iloilo),4.8,1698.263889,56.6087963,⚫ Severely Insecure,3
+Iloilo (Excluding City of Iloilo),4.5,2051.296296,68.37654321,⚫ Severely Insecure,3
+Iloilo (Excluding City of Iloilo),4.3,2350.581395,78.35271318,⚫ Severely Insecure,3
+Iloilo (Excluding City of Iloilo),4.2,2472.420635,82.41402116,⚫ Severely Insecure,3
+Iloilo (Excluding City of Iloilo),4.1,2819.715447,93.99051491,⚫ Severely Insecure,3
+Iloilo (Excluding City of Iloilo),4,2874.791667,95.82638889,⚫ Severely Insecure,3
+Iloilo (Excluding City of Iloilo),3.9,3299.145299,109.97151,⚫ Severely Insecure,3
+Iloilo (Excluding City of Iloilo),3.8,3849.342105,128.3114035,⚫ Severely Insecure,3
+Iloilo (Excluding City of Iloilo),3.7,5650.225225,188.3408408,🔴 Moderately Insecure,2
+City of Iloilo,5.2,3720.673077,124.0224359,⚫ Severely Insecure,3
+City of Iloilo,4.8,2030.729167,67.69097222,⚫ Severely Insecure,3
+City of Iloilo,4.5,2644.259259,88.14197531,⚫ Severely Insecure,3
+City of Iloilo,4.3,2967.054264,98.90180879,⚫ Severely Insecure,3
+City of Iloilo,4.2,3239.087302,107.9695767,⚫ Severely Insecure,3
+City of Iloilo,4.1,3626.829268,120.8943089,⚫ Severely Insecure,3
+City of Iloilo,4,3890.208333,129.6736111,⚫ Severely Insecure,3
+City of Iloilo,3.9,3930.769231,131.025641,⚫ Severely Insecure,3
+City of Iloilo,3.8,5130.921053,171.0307018,🔴 Moderately Insecure,2
+City of Iloilo,3.7,6754.054054,225.1351351,🟡 Mildly Insecure,1
+NEGROS ISLAND REGION,5.2,4537.179487,151.2393162,🔴 Moderately Insecure,2
+NEGROS ISLAND REGION,4.8,2206.597222,73.55324074,⚫ Severely Insecure,3
+NEGROS ISLAND REGION,4.5,2731.111111,91.03703704,⚫ Severely Insecure,3
+NEGROS ISLAND REGION,4.3,3180.620155,106.0206718,⚫ Severely Insecure,3
+NEGROS ISLAND REGION,4.2,3456.746032,115.2248677,⚫ Severely Insecure,3
+NEGROS ISLAND REGION,4.1,3917.073171,130.5691057,⚫ Severely Insecure,3
+NEGROS ISLAND REGION,4,4259.791667,141.9930556,⚫ Severely Insecure,3
+NEGROS ISLAND REGION,3.9,5128.632479,170.954416,🔴 Moderately Insecure,2
+NEGROS ISLAND REGION,3.8,6674.342105,222.4780702,🟡 Mildly Insecure,1
+NEGROS ISLAND REGION,3.7,9371.621622,312.3873874,🟢 Secure,0
+Negros Occidental (Excluding City of Bacolod),5.2,4351.923077,145.0641026,⚫ Severely Insecure,3
+Negros Occidental (Excluding City of Bacolod),4.8,2191.145833,73.03819444,⚫ Severely Insecure,3
+Negros Occidental (Excluding City of Bacolod),4.5,2788.518519,92.95061728,⚫ Severely Insecure,3
+Negros Occidental (Excluding City of Bacolod),4.3,3305.426357,110.1808786,⚫ Severely Insecure,3
+Negros Occidental (Excluding City of Bacolod),4.2,3637.896825,121.2632275,⚫ Severely Insecure,3
+Negros Occidental (Excluding City of Bacolod),4.1,3785.365854,126.1788618,⚫ Severely Insecure,3
+Negros Occidental (Excluding City of Bacolod),4,4120.416667,137.3472222,⚫ Severely Insecure,3
+Negros Occidental (Excluding City of Bacolod),3.9,4759.401709,158.6467236,🔴 Moderately Insecure,2
+Negros Occidental (Excluding City of Bacolod),3.8,6064.692982,202.1564327,🟡 Mildly Insecure,1
+Negros Occidental (Excluding City of Bacolod),3.7,8246.396396,274.8798799,🟢 Secure,0
+City of Bacolod,5.2,3921.634615,130.7211538,⚫ Severely Insecure,3
+City of Bacolod,4.8,2111.805556,70.39351852,⚫ Severely Insecure,3
+City of Bacolod,4.5,2558.148148,85.27160494,⚫ Severely Insecure,3
+City of Bacolod,4.3,2793.79845,93.12661499,⚫ Severely Insecure,3
+City of Bacolod,4.2,3308.333333,110.2777778,⚫ Severely Insecure,3
+City of Bacolod,4.1,3600.406504,120.0135501,⚫ Severely Insecure,3
+City of Bacolod,4,3960.416667,132.0138889,⚫ Severely Insecure,3
+City of Bacolod,3.9,4340.811966,144.6937322,⚫ Severely Insecure,3
+City of Bacolod,3.8,6316.22807,210.5409357,🟡 Mildly Insecure,1
+City of Bacolod,3.7,7056.306306,235.2102102,🟡 Mildly Insecure,1
+Negros Oriental,5.2,3748.878205,124.9626068,⚫ Severely Insecure,3
+Negros Oriental,4.8,2387.5,79.58333333,⚫ Severely Insecure,3
+Negros Oriental,4.5,2784.814815,92.82716049,⚫ Severely Insecure,3
+Negros Oriental,4.3,3164.922481,105.497416,⚫ Severely Insecure,3
+Negros Oriental,4.2,3391.865079,113.0621693,⚫ Severely Insecure,3
+Negros Oriental,4.1,3734.349593,124.4783198,⚫ Severely Insecure,3
+Negros Oriental,4,3972.916667,132.4305556,⚫ Severely Insecure,3
+Negros Oriental,3.9,4454.059829,148.468661,⚫ Severely Insecure,3
+Negros Oriental,3.8,4958.114035,165.2704678,🔴 Moderately Insecure,2
+Negros Oriental,3.7,6454.504505,215.1501502,🟡 Mildly Insecure,1
+Siquijor,5.2,4564.423077,152.1474359,🔴 Moderately Insecure,2
+Siquijor,4.8,2173.090278,72.43634259,⚫ Severely Insecure,3
+Siquijor,4.5,2654.074074,88.4691358,⚫ Severely Insecure,3
+Siquijor,4.3,2920.930233,97.36434109,⚫ Severely Insecure,3
+Siquijor,4.2,3420.238095,114.0079365,⚫ Severely Insecure,3
+Siquijor,4.1,3640.243902,121.3414634,⚫ Severely Insecure,3
+Siquijor,4,4221.458333,140.7152778,⚫ Severely Insecure,3
+Siquijor,3.9,5142.735043,171.4245014,🔴 Moderately Insecure,2
+Siquijor,3.8,6875.657895,229.1885965,🟡 Mildly Insecure,1
+Siquijor,3.7,10216.44144,340.548048,🟢 Secure,0
+REGION VII - CENTRAL VISAYAS,5.2,7224.519231,240.8173077,🟡 Mildly Insecure,1
+REGION VII - CENTRAL VISAYAS,4.8,3344.270833,111.4756944,⚫ Severely Insecure,3
+REGION VII - CENTRAL VISAYAS,4.5,3961.111111,132.037037,⚫ Severely Insecure,3
+REGION VII - CENTRAL VISAYAS,4.3,5007.55814,166.9186047,🔴 Moderately Insecure,2
+REGION VII - CENTRAL VISAYAS,4.2,5510.515873,183.6838624,🔴 Moderately Insecure,2
+REGION VII - CENTRAL VISAYAS,4.1,6065.650407,202.1883469,🟡 Mildly Insecure,1
+REGION VII - CENTRAL VISAYAS,4,7825.208333,260.8402778,🟢 Secure,0
+REGION VII - CENTRAL VISAYAS,3.9,8587.606838,286.2535613,🟢 Secure,0
+REGION VII - CENTRAL VISAYAS,3.8,10568.42105,352.2807018,🟢 Secure,0
+REGION VII - CENTRAL VISAYAS,3.7,14591.44144,486.3813814,🟢 Secure,0
+Bohol,5.2,4183.653846,139.4551282,⚫ Severely Insecure,3
+Bohol,4.8,2287.326389,76.24421296,⚫ Severely Insecure,3
+Bohol,4.5,3202.037037,106.7345679,⚫ Severely Insecure,3
+Bohol,4.3,3232.170543,107.7390181,⚫ Severely Insecure,3
+Bohol,4.2,3607.738095,120.2579365,⚫ Severely Insecure,3
+Bohol,4.1,3988.414634,132.9471545,⚫ Severely Insecure,3
+Bohol,4,4272.708333,142.4236111,⚫ Severely Insecure,3
+Bohol,3.9,4582.905983,152.7635328,🔴 Moderately Insecure,2
+Bohol,3.8,5377.192982,179.2397661,🔴 Moderately Insecure,2
+Bohol,3.7,7049.54955,234.984985,🟡 Mildly Insecure,1
+City of Cebu,5.2,3980.769231,132.6923077,⚫ Severely Insecure,3
+City of Cebu,4.8,1705.381944,56.84606481,⚫ Severely Insecure,3
+City of Cebu,4.5,2240.185185,74.67283951,⚫ Severely Insecure,3
+City of Cebu,4.3,2753.682171,91.78940568,⚫ Severely Insecure,3
+City of Cebu,4.2,3024.404762,100.8134921,⚫ Severely Insecure,3
+City of Cebu,4.1,3431.504065,114.3834688,⚫ Severely Insecure,3
+City of Cebu,4,3907.5,130.25,⚫ Severely Insecure,3
+City of Cebu,3.9,4758.760684,158.6253561,🔴 Moderately Insecure,2
+City of Cebu,3.8,5855.921053,195.1973684,🔴 Moderately Insecure,2
+City of Cebu,3.7,8139.63964,271.3213213,🟢 Secure,0
+City of Lapu-Lapu (Opon),5.2,3393.269231,113.1089744,⚫ Severely Insecure,3
+City of Lapu-Lapu (Opon),4.8,1683.680556,56.12268519,⚫ Severely Insecure,3
+City of Lapu-Lapu (Opon),4.5,2218.148148,73.9382716,⚫ Severely Insecure,3
+City of Lapu-Lapu (Opon),4.3,2629.844961,87.66149871,⚫ Severely Insecure,3
+City of Lapu-Lapu (Opon),4.2,2957.142857,98.57142857,⚫ Severely Insecure,3
+City of Lapu-Lapu (Opon),4.1,3174.186992,105.8062331,⚫ Severely Insecure,3
+City of Lapu-Lapu (Opon),4,3629.166667,120.9722222,⚫ Severely Insecure,3
+City of Lapu-Lapu (Opon),3.9,4236.752137,141.2250712,⚫ Severely Insecure,3
+City of Lapu-Lapu (Opon),3.8,4906.578947,163.5526316,🔴 Moderately Insecure,2
+City of Lapu-Lapu (Opon),3.7,6574.099099,219.1366366,🟡 Mildly Insecure,1
+City of Mandaue,5.2,5842.147436,194.7382479,🔴 Moderately Insecure,2
+City of Mandaue,4.8,2690.798611,89.69328704,⚫ Severely Insecure,3
+City of Mandaue,4.5,3449.62963,114.9876543,⚫ Severely Insecure,3
+City of Mandaue,4.3,4131.976744,137.7325581,⚫ Severely Insecure,3
+City of Mandaue,4.2,5007.738095,166.9246032,🔴 Moderately Insecure,2
+City of Mandaue,4.1,5545.731707,184.8577236,🔴 Moderately Insecure,2
+City of Mandaue,4,6170.833333,205.6944444,🟡 Mildly Insecure,1
+City of Mandaue,3.9,6741.025641,224.7008547,🟡 Mildly Insecure,1
+City of Mandaue,3.8,9283.333333,309.4444444,🟢 Secure,0
+City of Mandaue,3.7,11746.62162,391.5540541,🟢 Secure,0
+REGION VIII - EASTERN VISAYAS,5.2,4230.608974,141.0202991,⚫ Severely Insecure,3
+REGION VIII - EASTERN VISAYAS,4.8,1555.902778,51.86342593,⚫ Severely Insecure,3
+REGION VIII - EASTERN VISAYAS,4.5,2180.555556,72.68518519,⚫ Severely Insecure,3
+REGION VIII - EASTERN VISAYAS,4.3,2556.589147,85.21963824,⚫ Severely Insecure,3
+REGION VIII - EASTERN VISAYAS,4.2,2885.119048,96.17063492,⚫ Severely Insecure,3
+REGION VIII - EASTERN VISAYAS,4.1,3292.886179,109.7628726,⚫ Severely Insecure,3
+REGION VIII - EASTERN VISAYAS,4,3551.666667,118.3888889,⚫ Severely Insecure,3
+REGION VIII - EASTERN VISAYAS,3.9,4598.504274,153.2834758,🔴 Moderately Insecure,2
+REGION VIII - EASTERN VISAYAS,3.8,6220.394737,207.3464912,🟡 Mildly Insecure,1
+REGION VIII - EASTERN VISAYAS,3.7,9118.693694,303.9564565,🟢 Secure,0
+Eastern Samar,5.2,4785.576923,159.5192308,🔴 Moderately Insecure,2
+Eastern Samar,4.8,2150.173611,71.6724537,⚫ Severely Insecure,3
+Eastern Samar,4.5,2599.814815,86.66049383,⚫ Severely Insecure,3
+Eastern Samar,4.3,3510.658915,117.0219638,⚫ Severely Insecure,3
+Eastern Samar,4.2,3554.166667,118.4722222,⚫ Severely Insecure,3
+Eastern Samar,4.1,4100,136.6666667,⚫ Severely Insecure,3
+Eastern Samar,4,4926.458333,164.2152778,🔴 Moderately Insecure,2
+Eastern Samar,3.9,6056.837607,201.8945869,🟡 Mildly Insecure,1
+Eastern Samar,3.8,6194.078947,206.4692982,🟡 Mildly Insecure,1
+Eastern Samar,3.7,9956.081081,331.8693694,🟢 Secure,0
+City of Tacloban,5.2,5092.948718,169.7649573,🔴 Moderately Insecure,2
+City of Tacloban,4.8,2092.881944,69.76273148,⚫ Severely Insecure,3
+City of Tacloban,4.5,2843.888889,94.7962963,⚫ Severely Insecure,3
+City of Tacloban,4.3,3406.395349,113.5465116,⚫ Severely Insecure,3
+City of Tacloban,4.2,4020.238095,134.0079365,⚫ Severely Insecure,3
+City of Tacloban,4.1,4670.934959,155.697832,🔴 Moderately Insecure,2
+City of Tacloban,4,5444.375,181.4791667,🔴 Moderately Insecure,2
+City of Tacloban,3.9,6478.846154,215.9615385,🟡 Mildly Insecure,1
+City of Tacloban,3.8,7837.719298,261.2573099,🟢 Secure,0
+City of Tacloban,3.7,10237.38739,341.2462462,🟢 Secure,0
+Northern Samar,5.2,4708.814103,156.9604701,🔴 Moderately Insecure,2
+Northern Samar,4.8,2139.756944,71.32523148,⚫ Severely Insecure,3
+Northern Samar,4.5,2680,89.33333333,⚫ Severely Insecure,3
+Northern Samar,4.3,3174.031008,105.8010336,⚫ Severely Insecure,3
+Northern Samar,4.2,3344.047619,111.468254,⚫ Severely Insecure,3
+Northern Samar,4.1,3905.487805,130.1829268,⚫ Severely Insecure,3
+Northern Samar,4,4770.833333,159.0277778,🔴 Moderately Insecure,2
+Northern Samar,3.9,5589.957265,186.3319088,🔴 Moderately Insecure,2
+Northern Samar,3.8,6781.578947,226.0526316,🟡 Mildly Insecure,1
+Northern Samar,3.7,9942.792793,331.4264264,🟢 Secure,0
+Samar (Western Samar),5.2,4379.166667,145.9722222,⚫ Severely Insecure,3
+Samar (Western Samar),4.8,1947.743056,64.92476852,⚫ Severely Insecure,3
+Samar (Western Samar),4.5,2594.62963,86.48765432,⚫ Severely Insecure,3
+Samar (Western Samar),4.3,3149.806202,104.9935401,⚫ Severely Insecure,3
+Samar (Western Samar),4.2,3592.65873,119.755291,⚫ Severely Insecure,3
+Samar (Western Samar),4.1,4477.439024,149.2479675,⚫ Severely Insecure,3
+Samar (Western Samar),4,4747.5,158.25,🔴 Moderately Insecure,2
+Samar (Western Samar),3.9,5891.880342,196.3960114,🔴 Moderately Insecure,2
+Samar (Western Samar),3.8,6388.596491,212.9532164,🟡 Mildly Insecure,1
+Samar (Western Samar),3.7,8643.018018,288.1006006,🟢 Secure,0
+Southern Leyte,5.2,7163.782051,238.792735,🟡 Mildly Insecure,1
+Southern Leyte,4.8,2670.3125,89.01041667,⚫ Severely Insecure,3
+Southern Leyte,4.5,3756.111111,125.2037037,⚫ Severely Insecure,3
+Southern Leyte,4.3,4421.899225,147.3966408,⚫ Severely Insecure,3
+Southern Leyte,4.2,5109.325397,170.3108466,🔴 Moderately Insecure,2
+Southern Leyte,4.1,6479.471545,215.9823848,🟡 Mildly Insecure,1
+Southern Leyte,4,7393.75,246.4583333,🟡 Mildly Insecure,1
+Southern Leyte,3.9,9070.726496,302.3575499,🟢 Secure,0
+Southern Leyte,3.8,10266.44737,342.2149123,🟢 Secure,0
+Southern Leyte,3.7,13133.33333,437.7777778,🟢 Secure,0
+Biliran,5.2,6139.583333,204.6527778,🟡 Mildly Insecure,1
+Biliran,4.8,2626.736111,87.55787037,⚫ Severely Insecure,3
+Biliran,4.5,3723.518519,124.117284,⚫ Severely Insecure,3
+Biliran,4.3,4305.620155,143.5206718,⚫ Severely Insecure,3
+Biliran,4.2,5485.515873,182.8505291,🔴 Moderately Insecure,2
+Biliran,4.1,6045.934959,201.5311653,🟡 Mildly Insecure,1
+Biliran,4,7035.833333,234.5277778,🟡 Mildly Insecure,1
+Biliran,3.9,7890.811966,263.0270655,🟢 Secure,0
+Biliran,3.8,9629.166667,320.9722222,🟢 Secure,0
+Biliran,3.7,13428.6036,447.6201201,🟢 Secure,0
+REGION IX - ZAMBOANGA PENINSULA,5.2,5593.108974,186.4369658,🔴 Moderately Insecure,2
+REGION IX - ZAMBOANGA PENINSULA,4.8,2940.625,98.02083333,⚫ Severely Insecure,3
+REGION IX - ZAMBOANGA PENINSULA,4.5,3852.592593,128.4197531,⚫ Severely Insecure,3
+REGION IX - ZAMBOANGA PENINSULA,4.3,4452.906977,148.4302326,⚫ Severely Insecure,3
+REGION IX - ZAMBOANGA PENINSULA,4.2,5464.68254,182.1560847,🔴 Moderately Insecure,2
+REGION IX - ZAMBOANGA PENINSULA,4.1,6387.601626,212.9200542,🟡 Mildly Insecure,1
+REGION IX - ZAMBOANGA PENINSULA,4,6814.375,227.1458333,🟡 Mildly Insecure,1
+REGION IX - ZAMBOANGA PENINSULA,3.9,7303.205128,243.4401709,🟡 Mildly Insecure,1
+REGION IX - ZAMBOANGA PENINSULA,3.8,8859.429825,295.3143275,🟢 Secure,0
+REGION IX - ZAMBOANGA PENINSULA,3.7,9358.783784,311.9594595,🟢 Secure,0
+Zamboanga Del Sur (Excluding City of Zamboanga),5.2,3631.891026,121.0630342,⚫ Severely Insecure,3
+Zamboanga Del Sur (Excluding City of Zamboanga),4.8,1672.743056,55.75810185,⚫ Severely Insecure,3
+Zamboanga Del Sur (Excluding City of Zamboanga),4.5,2171.481481,72.38271605,⚫ Severely Insecure,3
+Zamboanga Del Sur (Excluding City of Zamboanga),4.3,2491.472868,83.04909561,⚫ Severely Insecure,3
+Zamboanga Del Sur (Excluding City of Zamboanga),4.2,2607.738095,86.92460317,⚫ Severely Insecure,3
+Zamboanga Del Sur (Excluding City of Zamboanga),4.1,3068.292683,102.2764228,⚫ Severely Insecure,3
+Zamboanga Del Sur (Excluding City of Zamboanga),4,3518.75,117.2916667,⚫ Severely Insecure,3
+Zamboanga Del Sur (Excluding City of Zamboanga),3.9,3872.008547,129.0669516,⚫ Severely Insecure,3
+Zamboanga Del Sur (Excluding City of Zamboanga),3.8,4998.464912,166.6154971,🔴 Moderately Insecure,2
+Zamboanga Del Sur (Excluding City of Zamboanga),3.7,7445.720721,248.1906907,🟡 Mildly Insecure,1
+City of Zamboanga,5.2,3159.455128,105.3151709,⚫ Severely Insecure,3
+City of Zamboanga,4.8,1599.652778,53.32175926,⚫ Severely Insecure,3
+City of Zamboanga,4.5,2017.592593,67.25308642,⚫ Severely Insecure,3
+City of Zamboanga,4.3,2264.728682,75.49095607,⚫ Severely Insecure,3
+City of Zamboanga,4.2,2550.793651,85.02645503,⚫ Severely Insecure,3
+City of Zamboanga,4.1,2997.96748,99.93224932,⚫ Severely Insecure,3
+City of Zamboanga,4,3043.958333,101.4652778,⚫ Severely Insecure,3
+City of Zamboanga,3.9,3305.128205,110.1709402,⚫ Severely Insecure,3
+City of Zamboanga,3.8,4445.175439,148.1725146,⚫ Severely Insecure,3
+City of Zamboanga,3.7,6102.027027,203.4009009,🟡 Mildly Insecure,1
+Zamboanga Sibugay,5.2,3382.852564,112.7617521,⚫ Severely Insecure,3
+Zamboanga Sibugay,4.8,1527.256944,50.90856481,⚫ Severely Insecure,3
+Zamboanga Sibugay,4.5,2011.851852,67.0617284,⚫ Severely Insecure,3
+Zamboanga Sibugay,4.3,2313.75969,77.125323,⚫ Severely Insecure,3
+Zamboanga Sibugay,4.2,2235.31746,74.51058201,⚫ Severely Insecure,3
+Zamboanga Sibugay,4.1,2864.227642,95.47425474,⚫ Severely Insecure,3
+Zamboanga Sibugay,4,3323.75,110.7916667,⚫ Severely Insecure,3
+Zamboanga Sibugay,3.9,3609.615385,120.3205128,⚫ Severely Insecure,3
+Zamboanga Sibugay,3.8,4489.254386,149.6418129,⚫ Severely Insecure,3
+Zamboanga Sibugay,3.7,6823.648649,227.454955,🟡 Mildly Insecure,1
+Isabela City,5.2,6280.448718,209.3482906,🟡 Mildly Insecure,1
+Isabela City,4.8,2511.111111,83.7037037,⚫ Severely Insecure,3
+Isabela City,4.5,3150.37037,105.0123457,⚫ Severely Insecure,3
+Isabela City,4.3,3926.937984,130.8979328,⚫ Severely Insecure,3
+Isabela City,4.2,4251.984127,141.7328042,⚫ Severely Insecure,3
+Isabela City,4.1,4900,163.3333333,🔴 Moderately Insecure,2
+Isabela City,4,5711.666667,190.3888889,🔴 Moderately Insecure,2
+Isabela City,3.9,8087.179487,269.5726496,🟢 Secure,0
+Isabela City,3.8,10838.15789,361.2719298,🟢 Secure,0
+Isabela City,3.7,15043.91892,501.463964,🟢 Secure,0
+REGION X - NORTHERN MINDANAO,5.2,4024.839744,134.1613248,⚫ Severely Insecure,3
+REGION X - NORTHERN MINDANAO,4.8,1898.4375,63.28125,⚫ Severely Insecure,3
+REGION X - NORTHERN MINDANAO,4.5,2282.037037,76.06790123,⚫ Severely Insecure,3
+REGION X - NORTHERN MINDANAO,4.3,2702.131783,90.07105943,⚫ Severely Insecure,3
+REGION X - NORTHERN MINDANAO,4.2,3044.642857,101.4880952,⚫ Severely Insecure,3
+REGION X - NORTHERN MINDANAO,4.1,3162.398374,105.4132791,⚫ Severely Insecure,3
+REGION X - NORTHERN MINDANAO,4,3816.25,127.2083333,⚫ Severely Insecure,3
+REGION X - NORTHERN MINDANAO,3.9,4318.162393,143.9387464,⚫ Severely Insecure,3
+REGION X - NORTHERN MINDANAO,3.8,5229.166667,174.3055556,🔴 Moderately Insecure,2
+REGION X - NORTHERN MINDANAO,3.7,7988.738739,266.2912913,🟢 Secure,0
+Bukidnon,5.2,3349.038462,111.6346154,⚫ Severely Insecure,3
+Bukidnon,4.8,1734.027778,57.80092593,⚫ Severely Insecure,3
+Bukidnon,4.5,2316.296296,77.20987654,⚫ Severely Insecure,3
+Bukidnon,4.3,2631.976744,87.73255814,⚫ Severely Insecure,3
+Bukidnon,4.2,2672.420635,89.08068783,⚫ Severely Insecure,3
+Bukidnon,4.1,2838.211382,94.60704607,⚫ Severely Insecure,3
+Bukidnon,4,3322.708333,110.7569444,⚫ Severely Insecure,3
+Bukidnon,3.9,4144.65812,138.1552707,⚫ Severely Insecure,3
+Bukidnon,3.8,4279.166667,142.6388889,⚫ Severely Insecure,3
+Bukidnon,3.7,6883.108108,229.4369369,🟡 Mildly Insecure,1
+Camiguin,5.2,3569.551282,118.9850427,⚫ Severely Insecure,3
+Camiguin,4.8,1887.847222,62.92824074,⚫ Severely Insecure,3
+Camiguin,4.5,2405.185185,80.17283951,⚫ Severely Insecure,3
+Camiguin,4.3,2814.922481,93.83074935,⚫ Severely Insecure,3
+Camiguin,4.2,3005.753968,100.1917989,⚫ Severely Insecure,3
+Camiguin,4.1,3074.796748,102.4932249,⚫ Severely Insecure,3
+Camiguin,4,3583.75,119.4583333,⚫ Severely Insecure,3
+Camiguin,3.9,3998.931624,133.2977208,⚫ Severely Insecure,3
+Camiguin,3.8,5105.04386,170.1681287,🔴 Moderately Insecure,2
+Camiguin,3.7,7223.648649,240.7882883,🟡 Mildly Insecure,1
+Lanao Del Norte (Excluding City of Iligan),5.2,4261.217949,142.0405983,⚫ Severely Insecure,3
+Lanao Del Norte (Excluding City of Iligan),4.8,2108.506944,70.28356481,⚫ Severely Insecure,3
+Lanao Del Norte (Excluding City of Iligan),4.5,2753.518519,91.78395062,⚫ Severely Insecure,3
+Lanao Del Norte (Excluding City of Iligan),4.3,2956.589147,98.55297158,⚫ Severely Insecure,3
+Lanao Del Norte (Excluding City of Iligan),4.2,3061.309524,102.0436508,⚫ Severely Insecure,3
+Lanao Del Norte (Excluding City of Iligan),4.1,3466.666667,115.5555556,⚫ Severely Insecure,3
+Lanao Del Norte (Excluding City of Iligan),4,3764.583333,125.4861111,⚫ Severely Insecure,3
+Lanao Del Norte (Excluding City of Iligan),3.9,4569.871795,152.3290598,🔴 Moderately Insecure,2
+Lanao Del Norte (Excluding City of Iligan),3.8,5480.482456,182.6827485,🔴 Moderately Insecure,2
+Lanao Del Norte (Excluding City of Iligan),3.7,8375.45045,279.1816817,🟢 Secure,0
+Misamis Occidental,5.2,3650.641026,121.6880342,⚫ Severely Insecure,3
+Misamis Occidental,4.8,1685.763889,56.19212963,⚫ Severely Insecure,3
+Misamis Occidental,4.5,2190.555556,73.01851852,⚫ Severely Insecure,3
+Misamis Occidental,4.3,2607.945736,86.93152455,⚫ Severely Insecure,3
+Misamis Occidental,4.2,2822.02381,94.06746032,⚫ Severely Insecure,3
+Misamis Occidental,4.1,3123.780488,104.1260163,⚫ Severely Insecure,3
+Misamis Occidental,4,3632.291667,121.0763889,⚫ Severely Insecure,3
+Misamis Occidental,3.9,4223.717949,140.7905983,⚫ Severely Insecure,3
+Misamis Occidental,3.8,4932.017544,164.4005848,🔴 Moderately Insecure,2
+Misamis Occidental,3.7,7414.864865,247.1621622,🟡 Mildly Insecure,1
+Misamis Oriental (Excluding City of Cagayan de Oro),5.2,3222.275641,107.409188,⚫ Severely Insecure,3
+Misamis Oriental (Excluding City of Cagayan de Oro),4.8,1568.75,52.29166667,⚫ Severely Insecure,3
+Misamis Oriental (Excluding City of Cagayan de Oro),4.5,2056.481481,68.54938272,⚫ Severely Insecure,3
+Misamis Oriental (Excluding City of Cagayan de Oro),4.3,2280.03876,76.00129199,⚫ Severely Insecure,3
+Misamis Oriental (Excluding City of Cagayan de Oro),4.2,2542.460317,84.74867725,⚫ Severely Insecure,3
+Misamis Oriental (Excluding City of Cagayan de Oro),4.1,2803.861789,93.46205962,⚫ Severely Insecure,3
+Misamis Oriental (Excluding City of Cagayan de Oro),4,3017.5,100.5833333,⚫ Severely Insecure,3
+Misamis Oriental (Excluding City of Cagayan de Oro),3.9,3684.188034,122.8062678,⚫ Severely Insecure,3
+Misamis Oriental (Excluding City of Cagayan de Oro),3.8,4380.263158,146.0087719,⚫ Severely Insecure,3
+Misamis Oriental (Excluding City of Cagayan de Oro),3.7,6431.306306,214.3768769,🟡 Mildly Insecure,1
+City of Cagayan de Oro,5.2,3005.448718,100.1816239,⚫ Severely Insecure,3
+City of Cagayan de Oro,4.8,1570.659722,52.35532407,⚫ Severely Insecure,3
+City of Cagayan de Oro,4.5,2059.074074,68.63580247,⚫ Severely Insecure,3
+City of Cagayan de Oro,4.3,2291.666667,76.38888889,⚫ Severely Insecure,3
+City of Cagayan de Oro,4.2,2618.650794,87.28835979,⚫ Severely Insecure,3
+City of Cagayan de Oro,4.1,2651.626016,88.38753388,⚫ Severely Insecure,3
+City of Cagayan de Oro,4,2933.75,97.79166667,⚫ Severely Insecure,3
+City of Cagayan de Oro,3.9,3350.854701,111.6951567,⚫ Severely Insecure,3
+City of Cagayan de Oro,3.8,3947.807018,131.5935673,⚫ Severely Insecure,3
+City of Cagayan de Oro,3.7,5533.333333,184.4444444,🔴 Moderately Insecure,2
+REGION XI - DAVAO REGION,5.2,4853.205128,161.7735043,🔴 Moderately Insecure,2
+REGION XI - DAVAO REGION,4.8,3003.819444,100.1273148,⚫ Severely Insecure,3
+REGION XI - DAVAO REGION,4.5,3351.666667,111.7222222,⚫ Severely Insecure,3
+REGION XI - DAVAO REGION,4.3,3920.542636,130.6847545,⚫ Severely Insecure,3
+REGION XI - DAVAO REGION,4.2,4201.984127,140.0661376,⚫ Severely Insecure,3
+REGION XI - DAVAO REGION,4.1,4351.422764,145.0474255,⚫ Severely Insecure,3
+REGION XI - DAVAO REGION,4,5120.625,170.6875,🔴 Moderately Insecure,2
+REGION XI - DAVAO REGION,3.9,5565.384615,185.5128205,🔴 Moderately Insecure,2
+REGION XI - DAVAO REGION,3.8,7224.122807,240.8040936,🟡 Mildly Insecure,1
+REGION XI - DAVAO REGION,3.7,9715.765766,323.8588589,🟢 Secure,0
+Davao Del Norte,5.2,3669.230769,122.3076923,⚫ Severely Insecure,3
+Davao Del Norte,4.8,1690.625,56.35416667,⚫ Severely Insecure,3
+Davao Del Norte,4.5,2037.222222,67.90740741,⚫ Severely Insecure,3
+Davao Del Norte,4.3,2207.170543,73.57235142,⚫ Severely Insecure,3
+Davao Del Norte,4.2,2644.246032,88.14153439,⚫ Severely Insecure,3
+Davao Del Norte,4.1,2697.764228,89.92547425,⚫ Severely Insecure,3
+Davao Del Norte,4,3058.541667,101.9513889,⚫ Severely Insecure,3
+Davao Del Norte,3.9,3647.222222,121.5740741,⚫ Severely Insecure,3
+Davao Del Norte,3.8,4309.868421,143.6622807,⚫ Severely Insecure,3
+Davao Del Norte,3.7,6731.756757,224.3918919,🟡 Mildly Insecure,1
+Davao Del Sur (Excluding City of Davao),5.2,3265.384615,108.8461538,⚫ Severely Insecure,3
+Davao Del Sur (Excluding City of Davao),4.8,1877.083333,62.56944444,⚫ Severely Insecure,3
+Davao Del Sur (Excluding City of Davao),4.5,2286.111111,76.2037037,⚫ Severely Insecure,3
+Davao Del Sur (Excluding City of Davao),4.3,2413.178295,80.43927649,⚫ Severely Insecure,3
+Davao Del Sur (Excluding City of Davao),4.2,2730.555556,91.01851852,⚫ Severely Insecure,3
+Davao Del Sur (Excluding City of Davao),4.1,2646.341463,88.21138211,⚫ Severely Insecure,3
+Davao Del Sur (Excluding City of Davao),4,3204.583333,106.8194444,⚫ Severely Insecure,3
+Davao Del Sur (Excluding City of Davao),3.9,3365.384615,112.1794872,⚫ Severely Insecure,3
+Davao Del Sur (Excluding City of Davao),3.8,4423.684211,147.4561404,⚫ Severely Insecure,3
+Davao Del Sur (Excluding City of Davao),3.7,7432.882883,247.7627628,🟡 Mildly Insecure,1
+Davao Oriental,5.2,4012.179487,133.7393162,⚫ Severely Insecure,3
+Davao Oriental,4.8,1925.173611,64.1724537,⚫ Severely Insecure,3
+Davao Oriental,4.5,2404.62963,80.15432099,⚫ Severely Insecure,3
+Davao Oriental,4.3,2757.751938,91.9250646,⚫ Severely Insecure,3
+Davao Oriental,4.2,3057.738095,101.9246032,⚫ Severely Insecure,3
+Davao Oriental,4.1,3515.853659,117.195122,⚫ Severely Insecure,3
+Davao Oriental,4,4024.166667,134.1388889,⚫ Severely Insecure,3
+Davao Oriental,3.9,4799.786325,159.9928775,🔴 Moderately Insecure,2
+Davao Oriental,3.8,5867.982456,195.5994152,🔴 Moderately Insecure,2
+Davao Oriental,3.7,8319.369369,277.3123123,🟢 Secure,0
+Davao De Oro,5.2,3593.269231,119.775641,⚫ Severely Insecure,3
+Davao De Oro,4.8,1800.173611,60.00578704,⚫ Severely Insecure,3
+Davao De Oro,4.5,2268.703704,75.62345679,⚫ Severely Insecure,3
+Davao De Oro,4.3,2573.837209,85.79457364,⚫ Severely Insecure,3
+Davao De Oro,4.2,2875.198413,95.83994709,⚫ Severely Insecure,3
+Davao De Oro,4.1,3083.943089,102.798103,⚫ Severely Insecure,3
+Davao De Oro,4,3710.625,123.6875,⚫ Severely Insecure,3
+Davao De Oro,3.9,3987.393162,132.9131054,⚫ Severely Insecure,3
+Davao De Oro,3.8,5344.298246,178.1432749,🔴 Moderately Insecure,2
+Davao De Oro,3.7,6628.603604,220.9534535,🟡 Mildly Insecure,1
+Davao Occidental,5.2,3923.557692,130.7852564,⚫ Severely Insecure,3
+Davao Occidental,4.8,1942.1875,64.73958333,⚫ Severely Insecure,3
+Davao Occidental,4.5,2783.518519,92.78395062,⚫ Severely Insecure,3
+Davao Occidental,4.3,2944.379845,98.14599483,⚫ Severely Insecure,3
+Davao Occidental,4.2,3261.904762,108.7301587,⚫ Severely Insecure,3
+Davao Occidental,4.1,3521.544715,117.3848238,⚫ Severely Insecure,3
+Davao Occidental,4,4445.833333,148.1944444,⚫ Severely Insecure,3
+Davao Occidental,3.9,5110.470085,170.3490028,🔴 Moderately Insecure,2
+Davao Occidental,3.8,5938.596491,197.9532164,🔴 Moderately Insecure,2
+Davao Occidental,3.7,7679.279279,255.975976,🟢 Secure,0
+Cotabato (North Cotabato),5.2,4586.378205,152.8792735,🔴 Moderately Insecure,2
+Cotabato (North Cotabato),4.8,2015.798611,67.19328704,⚫ Severely Insecure,3
+Cotabato (North Cotabato),4.5,2715.37037,90.51234568,⚫ Severely Insecure,3
+Cotabato (North Cotabato),4.3,3265.116279,108.8372093,⚫ Severely Insecure,3
+Cotabato (North Cotabato),4.2,3608.928571,120.297619,⚫ Severely Insecure,3
+Cotabato (North Cotabato),4.1,4457.520325,148.5840108,⚫ Severely Insecure,3
+Cotabato (North Cotabato),4,4930,164.3333333,🔴 Moderately Insecure,2
+Cotabato (North Cotabato),3.9,5886.752137,196.2250712,🔴 Moderately Insecure,2
+Cotabato (North Cotabato),3.8,7275.219298,242.5073099,🟡 Mildly Insecure,1
+Cotabato (North Cotabato),3.7,10103.6036,336.7867868,🟢 Secure,0
+South Cotabato (Excluding City of General Santos),5.2,3428.205128,114.2735043,⚫ Severely Insecure,3
+South Cotabato (Excluding City of General Santos),4.8,1891.666667,63.05555556,⚫ Severely Insecure,3
+South Cotabato (Excluding City of General Santos),4.5,2280.925926,76.0308642,⚫ Severely Insecure,3
+South Cotabato (Excluding City of General Santos),4.3,2653.682171,88.45607235,⚫ Severely Insecure,3
+South Cotabato (Excluding City of General Santos),4.2,2798.809524,93.29365079,⚫ Severely Insecure,3
+South Cotabato (Excluding City of General Santos),4.1,3015.447154,100.5149051,⚫ Severely Insecure,3
+South Cotabato (Excluding City of General Santos),4,3507.291667,116.9097222,⚫ Severely Insecure,3
+South Cotabato (Excluding City of General Santos),3.9,3833.760684,127.7920228,⚫ Severely Insecure,3
+South Cotabato (Excluding City of General Santos),3.8,4797.587719,159.9195906,🔴 Moderately Insecure,2
+South Cotabato (Excluding City of General Santos),3.7,7204.504505,240.1501502,🟡 Mildly Insecure,1
+City of General Santos (Dadiangas),5.2,3778.685897,125.9561966,⚫ Severely Insecure,3
+City of General Santos (Dadiangas),4.8,1857.118056,61.90393519,⚫ Severely Insecure,3
+City of General Santos (Dadiangas),4.5,2318.333333,77.27777778,⚫ Severely Insecure,3
+City of General Santos (Dadiangas),4.3,2651.744186,88.39147287,⚫ Severely Insecure,3
+City of General Santos (Dadiangas),4.2,3062.5,102.0833333,⚫ Severely Insecure,3
+City of General Santos (Dadiangas),4.1,3509.552846,116.9850949,⚫ Severely Insecure,3
+City of General Santos (Dadiangas),4,4020.208333,134.0069444,⚫ Severely Insecure,3
+City of General Santos (Dadiangas),3.9,4820.726496,160.6908832,🔴 Moderately Insecure,2
+City of General Santos (Dadiangas),3.8,5377.412281,179.247076,🔴 Moderately Insecure,2
+City of General Santos (Dadiangas),3.7,7145.945946,238.1981982,🟡 Mildly Insecure,1
+Sultan Kudarat,5.2,5808.173077,193.6057692,🔴 Moderately Insecure,2
+Sultan Kudarat,4.8,2335.9375,77.86458333,⚫ Severely Insecure,3
+Sultan Kudarat,4.5,3123.333333,104.1111111,⚫ Severely Insecure,3
+Sultan Kudarat,4.3,3821.899225,127.3966408,⚫ Severely Insecure,3
+Sultan Kudarat,4.2,4301.984127,143.3994709,⚫ Severely Insecure,3
+Sultan Kudarat,4.1,5284.95935,176.1653117,🔴 Moderately Insecure,2
+Sultan Kudarat,4,5984.583333,199.4861111,🔴 Moderately Insecure,2
+Sultan Kudarat,3.9,7643.803419,254.7934473,🟢 Secure,0
+Sultan Kudarat,3.8,8918.421053,297.2807018,🟢 Secure,0
+Sultan Kudarat,3.7,12456.75676,415.2252252,🟢 Secure,0
+CARAGA,5.2,4325.480769,144.1826923,⚫ Severely Insecure,3
+CARAGA,4.8,1937.847222,64.59490741,⚫ Severely Insecure,3
+CARAGA,4.5,2566.481481,85.54938272,⚫ Severely Insecure,3
+CARAGA,4.3,3017.054264,100.5684755,⚫ Severely Insecure,3
+CARAGA,4.2,3442.857143,114.7619048,⚫ Severely Insecure,3
+CARAGA,4.1,3990.650407,133.0216802,⚫ Severely Insecure,3
+CARAGA,4,4468.541667,148.9513889,⚫ Severely Insecure,3
+CARAGA,3.9,5358.333333,178.6111111,🔴 Moderately Insecure,2
+CARAGA,3.8,6473.464912,215.7821637,🟡 Mildly Insecure,1
+CARAGA,3.7,8908.783784,296.9594595,🟢 Secure,0
+Agusan Del Norte (Excluding City of Butuan),5.2,4205.128205,140.1709402,⚫ Severely Insecure,3
+Agusan Del Norte (Excluding City of Butuan),4.8,2180.034722,72.66782407,⚫ Severely Insecure,3
+Agusan Del Norte (Excluding City of Butuan),4.5,2988.148148,99.60493827,⚫ Severely Insecure,3
+Agusan Del Norte (Excluding City of Butuan),4.3,3303.100775,110.1033592,⚫ Severely Insecure,3
+Agusan Del Norte (Excluding City of Butuan),4.2,3925,130.8333333,⚫ Severely Insecure,3
+Agusan Del Norte (Excluding City of Butuan),4.1,3957.113821,131.903794,⚫ Severely Insecure,3
+Agusan Del Norte (Excluding City of Butuan),4,4550.625,151.6875,🔴 Moderately Insecure,2
+Agusan Del Norte (Excluding City of Butuan),3.9,5195.940171,173.1980057,🔴 Moderately Insecure,2
+Agusan Del Norte (Excluding City of Butuan),3.8,6282.017544,209.4005848,🟡 Mildly Insecure,1
+Agusan Del Norte (Excluding City of Butuan),3.7,7547.522523,251.5840841,🟢 Secure,0
+City of Butuan,5.2,4053.525641,135.1175214,⚫ Severely Insecure,3
+City of Butuan,4.8,1940.104167,64.67013889,⚫ Severely Insecure,3
+City of Butuan,4.5,2515.925926,83.86419753,⚫ Severely Insecure,3
+City of Butuan,4.3,3004.651163,100.1550388,⚫ Severely Insecure,3
+City of Butuan,4.2,3167.857143,105.5952381,⚫ Severely Insecure,3
+City of Butuan,4.1,3735.162602,124.5054201,⚫ Severely Insecure,3
+City of Butuan,4,3861.458333,128.7152778,⚫ Severely Insecure,3
+City of Butuan,3.9,4526.495726,150.8831909,🔴 Moderately Insecure,2
+City of Butuan,3.8,5362.280702,178.7426901,🔴 Moderately Insecure,2
+City of Butuan,3.7,7409.009009,246.966967,🟡 Mildly Insecure,1
+Agusan Del Sur,5.2,5479.326923,182.6442308,🔴 Moderately Insecure,2
+Agusan Del Sur,4.8,2414.409722,80.48032407,⚫ Severely Insecure,3
+Agusan Del Sur,4.5,3372.962963,112.4320988,⚫ Severely Insecure,3
+Agusan Del Sur,4.3,4277.131783,142.5710594,⚫ Severely Insecure,3
+Agusan Del Sur,4.2,4564.484127,152.1494709,🔴 Moderately Insecure,2
+Agusan Del Sur,4.1,5327.642276,177.5880759,🔴 Moderately Insecure,2
+Agusan Del Sur,4,6218.958333,207.2986111,🟡 Mildly Insecure,1
+Agusan Del Sur,3.9,7222.435897,240.7478632,🟡 Mildly Insecure,1
+Agusan Del Sur,3.8,9066.447368,302.2149123,🟢 Secure,0
+Agusan Del Sur,3.7,10700.9009,356.6966967,🟢 Secure,0
+Surigao Del Norte,5.2,3130.128205,104.3376068,⚫ Severely Insecure,3
+Surigao Del Norte,4.8,1910.763889,63.69212963,⚫ Severely Insecure,3
+Surigao Del Norte,4.5,2247.592593,74.91975309,⚫ Severely Insecure,3
+Surigao Del Norte,4.3,2628.488372,87.61627907,⚫ Severely Insecure,3
+Surigao Del Norte,4.2,2703.769841,90.12566138,⚫ Severely Insecure,3
+Surigao Del Norte,4.1,2757.926829,91.93089431,⚫ Severely Insecure,3
+Surigao Del Norte,4,2995,99.83333333,⚫ Severely Insecure,3
+Surigao Del Norte,3.9,3292.307692,109.7435897,⚫ Severely Insecure,3
+Surigao Del Norte,3.8,3924.780702,130.8260234,⚫ Severely Insecure,3
+Surigao Del Norte,3.7,5417.342342,180.5780781,🔴 Moderately Insecure,2
+Surigao Del Sur,5.2,3499.038462,116.6346154,⚫ Severely Insecure,3
+Surigao Del Sur,4.8,1805.381944,60.17939815,⚫ Severely Insecure,3
+Surigao Del Sur,4.5,2482.777778,82.75925926,⚫ Severely Insecure,3
+Surigao Del Sur,4.3,2726.550388,90.88501292,⚫ Severely Insecure,3
+Surigao Del Sur,4.2,2809.126984,93.63756614,⚫ Severely Insecure,3
+Surigao Del Sur,4.1,3278.861789,109.295393,⚫ Severely Insecure,3
+Surigao Del Sur,4,4095.416667,136.5138889,⚫ Severely Insecure,3
+Surigao Del Sur,3.9,4200,140,⚫ Severely Insecure,3
+Surigao Del Sur,3.8,5070.614035,169.0204678,🔴 Moderately Insecure,2
+Surigao Del Sur,3.7,5904.504505,196.8168168,🔴 Moderately Insecure,2
+Dinagat Islands,5.2,2642.147436,88.0715812,⚫ Severely Insecure,3
+Dinagat Islands,4.8,1583.680556,52.78935185,⚫ Severely Insecure,3
+Dinagat Islands,4.5,1979.814815,65.99382716,⚫ Severely Insecure,3
+Dinagat Islands,4.3,2018.217054,67.27390181,⚫ Severely Insecure,3
+Dinagat Islands,4.2,2325.396825,77.51322751,⚫ Severely Insecure,3
+Dinagat Islands,4.1,2565.853659,85.52845528,⚫ Severely Insecure,3
+Dinagat Islands,4,2738.75,91.29166667,⚫ Severely Insecure,3
+Dinagat Islands,3.9,3163.034188,105.4344729,⚫ Severely Insecure,3
+Dinagat Islands,3.8,3338.157895,111.2719298,⚫ Severely Insecure,3
+Dinagat Islands,3.7,4567.117117,152.2372372,🔴 Moderately Insecure,2
+Basilan,5.2,3890.064103,129.6688034,⚫ Severely Insecure,3
+Basilan,4.8,1390.277778,46.34259259,⚫ Severely Insecure,3
+Basilan,4.5,2057.222222,68.57407407,⚫ Severely Insecure,3
+Basilan,4.3,2558.914729,85.29715762,⚫ Severely Insecure,3
+Basilan,4.2,2888.888889,96.2962963,⚫ Severely Insecure,3
+Basilan,4.1,3426.219512,114.2073171,⚫ Severely Insecure,3
+Basilan,4,4034.583333,134.4861111,⚫ Severely Insecure,3
+Basilan,3.9,4554.273504,151.8091168,🔴 Moderately Insecure,2
+Basilan,3.8,5508.333333,183.6111111,🔴 Moderately Insecure,2
+Basilan,3.7,7300.675676,243.3558559,🟡 Mildly Insecure,1
+Lanao Del Sur,5.2,4183.814103,139.4604701,⚫ Severely Insecure,3
+Lanao Del Sur,4.8,1486.284722,49.54282407,⚫ Severely Insecure,3
+Lanao Del Sur,4.5,1999.814815,66.66049383,⚫ Severely Insecure,3
+Lanao Del Sur,4.3,2553.488372,85.11627907,⚫ Severely Insecure,3
+Lanao Del Sur,4.2,2786.507937,92.88359788,⚫ Severely Insecure,3
+Lanao Del Sur,4.1,3301.01626,110.0338753,⚫ Severely Insecure,3
+Lanao Del Sur,4,4060,135.3333333,⚫ Severely Insecure,3
+Lanao Del Sur,3.9,4663.888889,155.462963,🔴 Moderately Insecure,2
+Lanao Del Sur,3.8,5328.070175,177.6023392,🔴 Moderately Insecure,2
+Lanao Del Sur,3.7,7151.351351,238.3783784,🟡 Mildly Insecure,1
+Maguindanao,5.2,4270.99359,142.366453,⚫ Severely Insecure,3
+Maguindanao,4.8,1616.145833,53.87152778,⚫ Severely Insecure,3
+Maguindanao,4.5,2265.37037,75.51234568,⚫ Severely Insecure,3
+Maguindanao,4.3,2885.271318,96.17571059,⚫ Severely Insecure,3
+Maguindanao,4.2,3265.277778,108.8425926,⚫ Severely Insecure,3
+Maguindanao,4.1,3633.943089,121.1314363,⚫ Severely Insecure,3
+Maguindanao,4,4262.291667,142.0763889,⚫ Severely Insecure,3
+Maguindanao,3.9,4791.666667,159.7222222,🔴 Moderately Insecure,2
+Maguindanao,3.8,5944.517544,198.1505848,🔴 Moderately Insecure,2
+Maguindanao,3.7,8170.720721,272.3573574,🟢 Secure,0
+Maguindanao del Norte,5.2,4575.160256,152.5053419,🔴 Moderately Insecure,2
+Maguindanao del Norte,4.8,2112.5,70.41666667,⚫ Severely Insecure,3
+Maguindanao del Norte,4.5,2942.222222,98.07407407,⚫ Severely Insecure,3
+Maguindanao del Norte,4.3,3551.744186,118.3914729,⚫ Severely Insecure,3
+Maguindanao del Norte,4.2,4278.174603,142.6058201,⚫ Severely Insecure,3
+Maguindanao del Norte,4.1,4533.943089,151.1314363,🔴 Moderately Insecure,2
+Maguindanao del Norte,4,4859.583333,161.9861111,🔴 Moderately Insecure,2
+Maguindanao del Norte,3.9,5579.487179,185.982906,🔴 Moderately Insecure,2
+Maguindanao del Norte,3.8,7108.333333,236.9444444,🟡 Mildly Insecure,1
+Maguindanao del Norte,3.7,9388.963964,312.9654655,🟢 Secure,0
+Maguindanao del Sur,5.2,3287.820513,109.5940171,⚫ Severely Insecure,3
+Maguindanao del Sur,4.8,1381.597222,46.05324074,⚫ Severely Insecure,3
+Maguindanao del Sur,4.5,1972.592593,65.75308642,⚫ Severely Insecure,3
+Maguindanao del Sur,4.3,2313.565891,77.11886305,⚫ Severely Insecure,3
+Maguindanao del Sur,4.2,2618.452381,87.28174603,⚫ Severely Insecure,3
+Maguindanao del Sur,4.1,2906.504065,96.88346883,⚫ Severely Insecure,3
+Maguindanao del Sur,4,3733.541667,124.4513889,⚫ Severely Insecure,3
+Maguindanao del Sur,3.9,4016.025641,133.8675214,⚫ Severely Insecure,3
+Maguindanao del Sur,3.8,4749.780702,158.3260234,🔴 Moderately Insecure,2
+Maguindanao del Sur,3.7,6462.387387,215.4129129,🟡 Mildly Insecure,1
+Sulu,5.2,2500.801282,83.36004274,⚫ Severely Insecure,3
+Sulu,4.8,1018.576389,33.9525463,⚫ Severely Insecure,3
+Sulu,4.5,1447.592593,48.25308642,⚫ Severely Insecure,3
+Sulu,4.3,1819.379845,60.64599483,⚫ Severely Insecure,3
+Sulu,4.2,2202.777778,73.42592593,⚫ Severely Insecure,3
+Sulu,4.1,2457.723577,81.92411924,⚫ Severely Insecure,3
+Sulu,4,2892.5,96.41666667,⚫ Severely Insecure,3
+Sulu,3.9,3271.153846,109.0384615,⚫ Severely Insecure,3
+Sulu,3.8,3972.587719,132.4195906,⚫ Severely Insecure,3
+Sulu,3.7,4769.81982,158.993994,🔴 Moderately Insecure,2
+Cotabato City,5.2,3890.224359,129.6741453,⚫ Severely Insecure,3
+Cotabato City,4.8,1701.215278,56.70717593,⚫ Severely Insecure,3
+Cotabato City,4.5,2231.296296,74.37654321,⚫ Severely Insecure,3
+Cotabato City,4.3,2632.945736,87.76485788,⚫ Severely Insecure,3
+Cotabato City,4.2,2987.103175,99.57010582,⚫ Severely Insecure,3
+Cotabato City,4.1,3285.365854,109.5121951,⚫ Severely Insecure,3
+Cotabato City,4,3668.333333,122.2777778,⚫ Severely Insecure,3
+Cotabato City,3.9,4382.692308,146.0897436,⚫ Severely Insecure,3
+Cotabato City,3.8,5290.789474,176.3596491,🔴 Moderately Insecure,2
+Cotabato City,3.7,7515.09009,250.503003,🟢 Secure,0

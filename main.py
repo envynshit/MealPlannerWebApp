@@ -1,59 +1,46 @@
 import streamlit as st
 import hashlib
+from sqlalchemy import text
 from db import get_connection
 
-st.set_page_config(page_title="AI Meal Planner - Login", page_icon="🍽️")
-if "logged_in" not in st.session_state:
-    st.session_state.logged_in = False
-    st.session_state.user = None
-st.title("AI Meal Planner")
+st.set_page_config(page_title="NutriScopePH", layout="wide", page_icon="")
 
-st.subheader("Login")
+st.markdown("""
+<div style='text-align:center; padding:4rem'>
+    <h1 style='color:#4a90e2'>NutriScopePH</h1>
+    <p style='color:#666; font-size:1.3rem'>An AI Food Security Assessment and Planning</p>
+</div>
+""", unsafe_allow_html=True)
 
-username = st.text_input("Username")
+col1, = st.columns([1])
 
-password = st.text_input("Password", type="password")
-
-def hash_password(pw: str) -> str:
-    return hashlib.sha256(pw.encode("utf-8")).hexdigest()
-
-if st.button("Log in"):
-    if not username or not password:
-        st.error("Please enter both username and password.")
-    else:
-        try:
-            conn = get_connection()
-            import sqlite3
-            conn.row_factory = sqlite3.Row
-            cursor = conn.cursor()
-        except Exception as e:
-            st.error(f"Database connection error: {e}")
-        else:
+with col1:
+    st.subheader("Login")
+    username = st.text_input("Username")
+    password = st.text_input("Password", type="password")
+    
+    if st.button("Login", use_container_width=True):
+        if username and password:
             try:
-                pw_hash = hash_password(password)
-                cursor.execute(
-                    "SELECT id, username FROM users WHERE username = ? AND password_hash = ?",
-                    (username, pw_hash),
-                )
-                user = cursor.fetchone()
-                if user:
+                conn = get_connection()
+                result = conn.execute(
+                    text("SELECT id, username FROM users WHERE username=:u AND password_hash=:p"),
+                    {"u": username, "p": hashlib.sha256(password.encode()).hexdigest()}
+                ).fetchone()
+                conn.close()
+                
+                if result:
                     st.session_state.logged_in = True
-                    st.session_state.user = {"id": user["id"], "username": user["username"]}
-                    st.success("Logged in successfully!")
+                    st.session_state.user = {"id": result[0], "username": result[1]}
+                    st.session_state.user_id = result[0]
+                    st.success("Welcome!")
                     st.switch_page("pages/dashboard.py")
                 else:
-                    st.error("Invalid username or password.")
+                    st.error("Invalid credentials")
             except Exception as e:
-                st.error(f"Login failed: {e}")
-            finally:
-                try:
-                    cursor.close()
-                except Exception:
-                    pass
-                try:
-                    conn.close()
-                except Exception:
-                    pass
+                st.error(f"Login error: {e}")
+        else:
+            st.error("Enter credentials")
 
-st.markdown("Don't have an account? [Register here](/register)")
+st.markdown("Dont have an Account?   [Register](/register)")
 

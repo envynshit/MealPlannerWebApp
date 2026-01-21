@@ -1,0 +1,111 @@
+================================================================================
+RECIPE INGREDIENT MAPPING LOG
+================================================================================
+
+Total Recipes: 99
+Found: 86
+Needs Mapping: 13
+
+Data loaded from:
+  Recipes: module2_recipe_costs_by_region.csv
+  WFP Prices: wfp_phl_prices_clean.csv
+
+  1. FOUND Adobong Pusit                            - 5 ingredients
+  2. FOUND Arroz Caldo                              - 5 ingredients
+  3. FOUND Batchoy                                  - 4 ingredients
+  4. FOUND Beef Bulalo                              - 5 ingredients
+  5. FOUND Beef Caldereta                           - 5 ingredients
+  6. FOUND Beef Embutido                            - 5 ingredients
+  7. FOUND Beef Guisado                             - 5 ingredients
+  8. FOUND Beef Kinilaw                             - 5 ingredients
+  9. FOUND Beef Mechado                             - 5 ingredients
+ 10. FOUND Beef Morcon                              - 5 ingredients
+ 11. FOUND Beef Nilaga                              - 4 ingredients
+ 12. FOUND Beef Oxtail Kare-Kare                    - 4 ingredients
+ 13. FOUND Beef Pares                               - 4 ingredients
+ 14. FOUND Beef Pochero                             - 4 ingredients
+ 15. FOUND Beef Steak                               - 4 ingredients
+ 16. FOUND Beef Tapa                                - 4 ingredients
+ 17. FOUND Bistek Tagalog                           - 4 ingredients
+ 18. FOUND Chicken Adobo                            - 5 ingredients
+ 19. FOUND Chicken Afritada                         - 5 ingredients
+ 20. FOUND Chicken Arroz Caldo                      - 5 ingredients
+ 21. FOUND Chicken Asado                            - 5 ingredients
+ 22. FOUND Chicken Barbecue                         - 4 ingredients
+ 23. FOUND Chicken Binagoongan                      - 4 ingredients
+ 24. FOUND Chicken Binakol                          - 4 ingredients
+ 25. FOUND Chicken Caldereta                        - 4 ingredients
+ 26. FOUND Chicken Embutido                         - 4 ingredients
+ 27. FOUND Chicken Inasal                           - 4 ingredients
+ 28. FOUND Chicken Inasal sa Luyang Dilaw           - 4 ingredients
+ 29. FOUND Chicken Longganisa                       - 4 ingredients
+ 30. FOUND Chicken Morcon                           - 4 ingredients
+ 31. FOUND Chicken Pastel                           - 5 ingredients
+ 32. FOUND Chicken Relleno                          - 5 ingredients
+ 33. FOUND Chicken Sopas                            - 4 ingredients
+ 34. FOUND Chicken Tapa                             - 4 ingredients
+ 35. FOUND Chicken Tocino                           - 4 ingredients
+ 36. FOUND Crispy Pata                              - 4 ingredients
+ 37. FOUND Daing na Bangus                          - 4 ingredients
+ 38. FOUND Dinuguan                                 - 4 ingredients
+ 39. FOUND Ensaladang Mangga                        - 3 ingredients
+ 40. FOUND Ensaladang Talong                        - 4 ingredients
+ 41. FOUND Escabeche ng Isda                        - 5 ingredients
+ 42. FOUND Garlic Fried Rice                        - 4 ingredients
+ 43. FOUND Ginataang Hipon                          - 5 ingredients
+ 44. NEEDS_MAP Ginataang Manok                          - NOT IN DATABASE
+ 45. FOUND Ginisang Ampalaya                        - 4 ingredients
+ 46. FOUND Ginisang Monggo                          - 4 ingredients
+ 47. FOUND Ginisang Monggo with Chicharo            - 4 ingredients
+ 48. FOUND Ginisang Patola                          - 4 ingredients
+ 49. FOUND Ginisang Pechay                          - 4 ingredients
+ 50. FOUND Ginisang Repolyo                         - 4 ingredients
+ 51. FOUND Ginisang Singkamas                       - 4 ingredients
+ 52. FOUND Ginisang Upo                             - 4 ingredients
+ 53. FOUND Grilled Tilapia                          - 5 ingredients
+ 54. FOUND Halabos na Hipon                         - 4 ingredients
+ 55. FOUND Inihaw na Bangus                         - 4 ingredients
+ 56. FOUND Kalabasa at Sitaw                        - 4 ingredients
+ 57. FOUND Laing                                    - 4 ingredients
+ 58. FOUND Lechon Kawali                            - 4 ingredients
+ 59. FOUND Lomi                                     - 5 ingredients
+ 60. FOUND Mami                                     - 5 ingredients
+ 61. FOUND Miki Noodles                             - 4 ingredients
+ 62. FOUND Nilagang Baka                            - 4 ingredients
+ 63. FOUND Pancit Bihon                             - 5 ingredients
+ 64. FOUND Pancit Canton                            - 4 ingredients
+ 65. FOUND Pancit Luglug                            - 5 ingredients
+ 66. FOUND Pancit Malabon                           - 4 ingredients
+ 67. FOUND Pancit Palabok                           - 4 ingredients
+ 68. FOUND Pesang Isda                              - 5 ingredients
+ 69. FOUND Pinakbet                                 - 4 ingredients
+ 70. FOUND Pinakbet Tagalog                         - 4 ingredients
+ 71. FOUND Pinangat na Galunggong                   - 4 ingredients
+ 72. FOUND Pork Adobo                               - 5 ingredients
+ 73. FOUND Pork Afritada                            - 5 ingredients
+ 74. FOUND Pork Barbecue                            - 4 ingredients
+ 75. FOUND Pork Binagoongan                         - 4 ingredients
+ 76. FOUND Pork Binakol                             - 4 ingredients
+ 77. FOUND Pork Embutido                            - 4 ingredients
+ 78. FOUND Pork Guisado                             - 4 ingredients
+ 79. FOUND Pork Humba                               - 4 ingredients
+ 80. FOUND Pork Longganisa                          - 4 ingredients
+ 81. FOUND Pork Menudo                              - 4 ingredients
+ 82. FOUND Pork Morcon                              - 4 ingredients
+ 83. FOUND Pork Nilaga                              - 4 ingredients
+ 84. FOUND Pork Sisig                               - 5 ingredients
+ 85. FOUND Pork Steak                               - 4 ingredients
+ 86. FOUND Pork Tapa                                - 4 ingredients
+ 87. FOUND Pork Tocino                              - 4 ingredients
+ 88. NEEDS_MAP Rellenong Bangus                         - NOT IN DATABASE
+ 89. NEEDS_MAP Sinangag                                 - NOT IN DATABASE
+ 90. NEEDS_MAP Sinigang na Baboy                        - NOT IN DATABASE
+ 91. NEEDS_MAP Sinigang na Isda                         - NOT IN DATABASE
+ 92. NEEDS_MAP Sopas                                    - NOT IN DATABASE
+ 93. NEEDS_MAP Sotanghon Guisado                        - NOT IN DATABASE
+ 94. NEEDS_MAP Sweet and Sour Lapu-Lapu                 - NOT IN DATABASE
+ 95. NEEDS_MAP Sweet and Spicy Shrimp                   - NOT IN DATABASE
+ 96. NEEDS_MAP Tinapa                                   - NOT IN DATABASE
+ 97. NEEDS_MAP Tinapang Galunggong                      - NOT IN DATABASE
+ 98. NEEDS_MAP Tinola na Manok                          - NOT IN DATABASE
+ 99. NEEDS_MAP Tortang Talong                           - NOT IN DATABASE

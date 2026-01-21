@@ -1,81 +1,63 @@
 import streamlit as st
 import hashlib
+from sqlalchemy import text
 from db import get_connection
 
-st.set_page_config(page_title="AI Meal Planner - Register", page_icon="🍽️")
 
-st.title("AI Meal Planner")
-st.subheader("Register")
+st.set_page_config(page_title="Register", layout="wide", page_icon="")
 
-username = st.text_input("Username")
-email = st.text_input("Email")
-password = st.text_input("Password", type="password")
-confirm_password = st.text_input("Confirm Password", type="password")
 
-def create_users_table(conn):
-    cursor = conn.cursor()
-    cursor.execute(
-        """
-        CREATE TABLE IF NOT EXISTS users (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            username TEXT NOT NULL UNIQUE,
-            email TEXT NOT NULL UNIQUE,
-            password_hash TEXT NOT NULL,
-            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-        );
-        """
-    )
-    conn.commit()
+st.markdown("""
+<div style='text-align:center; padding:4rem'>
+    <h1 style='color:#50c878'>Create Account</h1>
+    <p style='color:#666; font-size:1.3rem'>Join NutriScope PH</p>
+</div>
+""", unsafe_allow_html=True)
 
-def hash_password(pw: str) -> str:
-    return hashlib.sha256(pw.encode('utf-8')).hexdigest()
 
-if st.button("Register"):
-    # Basic validation
-    if not username or not email or not password or not confirm_password:
-        st.error("Please fill in all fields.")
-    elif password != confirm_password:
-        st.error("Passwords do not match.")
-    elif len(password) < 6:
-        st.error("Password must be at least 6 characters long.")
-    else:
-        try:
-            conn = get_connection()
-        except Exception as e:
-            st.error(f"Could not connect to database: {e}")
-        else:
-            try:
-                create_users_table(conn)
-                import sqlite3
-                conn.row_factory = sqlite3.Row
-                cursor = conn.cursor()
+col1, = st.columns([1])
 
-                # Check existing username or email
-                cursor.execute("SELECT id FROM users WHERE username = ? OR email = ?", (username, email))
-                existing = cursor.fetchone()
-                if existing:
-                    st.error("Username or email already exists. Please choose another.")
-                else:
-                    pw_hash = hash_password(password)
-                    cursor.execute(
-                        "INSERT INTO users (username, email, password_hash) VALUES (?, ?, ?)",
-                        (username, email, pw_hash),
-                    )
-                    conn.commit()
-                    st.success("Registration successful! You can now log in.")
-                    if st.button("Go to Login"):
-                        st.session_state.logged_in = False
+
+with col1:
+    st.subheader("Sign Up")
+    with st.form("register_form"):
+        username = st.text_input("Username")
+        email = st.text_input("Email")
+        password = st.text_input("Password", type="password")
+        confirm = st.text_input("Confirm Password", type="password")
+        
+        submitted = st.form_submit_button("Register", use_container_width=True)
+        
+        if submitted:
+            if not all([username, email, password, confirm]):
+                st.error("Fill all fields")
+            elif password != confirm:
+                st.error("Passwords don't match")
+            elif len(password) < 6:
+                st.error("Password too short (min 6 chars)")
+            else:
+                try:
+                    conn = get_connection()
+                    pw_hash = hashlib.sha256(password.encode()).hexdigest()
+                    
+                    # Check duplicate
+                    exists = conn.execute(
+                        text("SELECT 1 FROM users WHERE username=:u OR email=:e"),
+                        {"u": username, "e": email}
+                    ).fetchone()
+                    
+                    if exists:
+                        st.error("Username or email already taken")
+                    else:
+                        conn.execute(
+                            text("INSERT INTO users (username, email, password_hash) VALUES (:u, :e, :h)"),
+                            {"u": username, "e": email, "h": pw_hash}
+                        )
+                        st.success("Registered! Please login.")
                         st.switch_page("main.py")
-            except Exception as e:
-                st.error(f"Registration failed: {e}")
-            finally:
-                try:
-                    cursor.close()
-                except Exception:
-                    pass
-                try:
                     conn.close()
-                except Exception:
-                    pass
+                except Exception as e:
+                    st.error(f"Error: {e}")
 
-st.markdown("Already have an account? [Log in here](/)")
+
+st.markdown("[Back to Login](/main.py)")
